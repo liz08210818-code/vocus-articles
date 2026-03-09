@@ -135,7 +135,7 @@ def run_generate_and_push(msg):
         messagebox.showinfo("更新完成",
             f"{msg}\n\n目前共 {total} 篇文章\n\n"
             f"網站會在 1-2 分鐘後更新：\n"
-            f"https://liz08210818-code.github.io/vocus-articles/")
+            f"https://liz7788.github.io/vocus-articles/")
 
     except Exception as e:
         messagebox.showerror("錯誤", str(e))

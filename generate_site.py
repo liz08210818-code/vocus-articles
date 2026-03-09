@@ -81,11 +81,11 @@ def generate_html(articles, categories):
   <title>讚讚讚小姐姐｜2026 好物推薦總整理</title>
   <meta name="description" content="讚讚讚小姐姐的方格子文章總整理，行動電源、充電器、香氛擴香、嬰兒監視器等 2026 年最新推薦評比，幫你快速找到需要的好物。">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://liz08210818-code.github.io/vocus-articles/">
+  <link rel="canonical" href="https://liz7788.github.io/vocus-articles/">
   <meta property="og:title" content="讚讚讚小姐姐｜2026 好物推薦總整理">
   <meta property="og:description" content="行動電源、充電器、香氛擴香、嬰兒監視器等 2026 年最新推薦評比">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://liz08210818-code.github.io/vocus-articles/">
+  <meta property="og:url" content="https://liz7788.github.io/vocus-articles/">
   <style>
     * {{ margin: 0; padding: 0; box-sizing: border-box; }}
     body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.7; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background: #fafafa; }}
@@ -121,7 +121,7 @@ def generate_sitemap(articles):
     today = datetime.now().strftime("%Y-%m-%d")
 
     urls = f"""  <url>
-    <loc>https://liz08210818-code.github.io/vocus-articles/</loc>
+    <loc>https://liz7788.github.io/vocus-articles/</loc>
     <lastmod>{today}</lastmod>
     <priority>1.0</priority>
   </url>

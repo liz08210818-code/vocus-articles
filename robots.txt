@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://liz08210818-code.github.io/vocus-articles/sitemap.xml
+Sitemap: https://liz7788.github.io/vocus-articles/sitemap.xml
