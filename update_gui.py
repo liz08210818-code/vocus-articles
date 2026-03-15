@@ -127,6 +127,9 @@ def run_generate_and_push(msg):
             ["git", "add", ".", "&&", "git", "commit", "-m", "Update articles", "&&", "git", "push"],
             capture_output=True, text=True, cwd=SCRIPT_DIR, shell=True
         )
+        if git_result.returncode != 0:
+            messagebox.showwarning("Git 推送失敗",
+                f"網站已生成但 git push 失敗：\n{git_result.stderr}\n\n請手動推送。")
 
         total = load_existing()
         status_label.config(text=f"{msg}。目前共 {total} 篇。")
