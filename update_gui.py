@@ -2,14 +2,65 @@
 方格子導流站更新器 — GUI 版
 雙擊「更新導流站.bat」就會打開這個視窗
 """
+import json
 import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import subprocess
 import os
+import re
 import sys
+import tempfile
+from datetime import datetime
+from pathlib import Path
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ARTICLES_FILE = os.path.join(SCRIPT_DIR, "articles.txt")
+PUBLISH_DATES_FILE = os.path.join(SCRIPT_DIR, "..", "reports", "publish_dates.json")
+
+
+def scan_output_titles():
+    """掃描 output/ 所有文章的 # 標題"""
+    output_dir = Path(SCRIPT_DIR).parent / "output"
+    titles = []
+    for md in output_dir.rglob("*_方格子*.md"):
+        try:
+            for line in md.read_text(encoding="utf-8").split("\n"):
+                if line.startswith("#") and not line.startswith("##"):
+                    titles.append(line.lstrip("# ").strip())
+                    break
+        except Exception:
+            pass
+    return titles
+
+
+def check_title_match(new_title, output_titles):
+    """比對新標題是否在 output/ 有對應文章（三級比對，同 pc_data.match_article_to_published）"""
+    # 提取【】內容
+    new_brackets = re.findall(r'【([^】]+)】', new_title)
+    new_key = new_brackets[0] if new_brackets else new_title[:20]
+    # 核心標題（去掉 ｜ 後面）
+    new_core = new_title.split("｜")[0].strip()
+    # 清除標點版（延遲計算）
+    clean_new = None
+
+    for out_title in output_titles:
+        # Level 1: 【】內容完全一致
+        out_brackets = re.findall(r'【([^】]+)】', out_title)
+        out_key = out_brackets[0] if out_brackets else out_title[:20]
+        if new_key == out_key:
+            return True
+        # Level 2: 核心標題（｜前面）一致
+        out_core = out_title.split("｜")[0].strip()
+        if new_core and out_core and len(new_core) >= 6 and new_core == out_core:
+            return True
+        # Level 3: 清除標點空格後前 N 字一致
+        if clean_new is None:
+            clean_new = re.sub(r'[\s｜|#\-]', '', new_title)
+        clean_out = re.sub(r'[\s｜|#\-]', '', out_title)
+        min_len = min(len(clean_new), len(clean_out), 20)
+        if min_len >= 8 and clean_new[:min_len] == clean_out[:min_len]:
+            return True
+    return False
 
 
 def load_existing():
@@ -97,11 +148,49 @@ def do_update():
         messagebox.showinfo("沒有新文章", "這些文章都已經在清單裡了")
         return
 
+    # 標題比對提醒：檢查新增標題是否能對應 output/ 的 .md
+    output_titles = scan_output_titles()
+    if output_titles:
+        unmatched = []
+        for title, url in added:
+            if not check_title_match(title, output_titles):
+                unmatched.append(title)
+        if unmatched:
+            msg = "以下標題在本地文章找不到對應（可能標題不一致）：\n\n"
+            msg += "\n".join(f"  ・{t[:50]}" for t in unmatched)
+            msg += "\n\n確定要繼續新增嗎？"
+            if not messagebox.askyesno("標題比對提醒", msg):
+                return
+
     # 寫入 articles.txt
     with open(ARTICLES_FILE, "a", encoding="utf-8") as f:
         f.write(f"\n# === 新增 ===\n")
         for title, url in added:
             f.write(f"{title} | {url}\n")
+
+    # 寫入 publish_dates.json（提交導流站的日期 = 發布日期）
+    try:
+        if os.path.exists(PUBLISH_DATES_FILE):
+            with open(PUBLISH_DATES_FILE, "r", encoding="utf-8") as f:
+                dates = json.load(f)
+        else:
+            dates = {}
+        today = datetime.now().strftime("%Y-%m-%d")
+        for title, url in added:
+            dates[url] = today
+        os.makedirs(os.path.dirname(PUBLISH_DATES_FILE), exist_ok=True)
+        fd, tmp = tempfile.mkstemp(dir=os.path.dirname(PUBLISH_DATES_FILE), suffix=".tmp")
+        try:
+            with os.fdopen(fd, "w", encoding="utf-8") as f:
+                json.dump(dates, f, ensure_ascii=False, indent=2)
+            os.replace(tmp, PUBLISH_DATES_FILE)
+        except Exception:
+            try:
+                os.unlink(tmp)
+            except OSError:
+                pass
+    except Exception:
+        pass  # 日期寫入失敗不影響主流程
 
     run_generate_and_push(f"新增了 {len(added)} 篇文章")
 
