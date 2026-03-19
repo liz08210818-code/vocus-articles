@@ -1,0 +1,174 @@
+{
+  "generated": "2026-03-19 10:13",
+  "batches": {
+    "batch_01_行動電源": {
+      "core_word": "行動電源",
+      "published_count": 12,
+      "total_articles": 16,
+      "bigwords": [
+        {
+          "bigword": "行動電源推薦",
+          "status": "almost",
+          "emoji": "🟡",
+          "rank": null,
+          "detail": "12篇、58%首頁",
+          "suggestion": "→ 再推 1 篇上首頁",
+          "stats": {
+            "published": 12,
+            "on_page1": 7,
+            "page1_rate": 0.58,
+            "layers": [
+              "boss",
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": true
+          }
+        },
+        {
+          "bigword": "行動電源",
+          "status": "almost",
+          "emoji": "🟡",
+          "rank": null,
+          "detail": "12篇、58%首頁",
+          "suggestion": "→ 再推 1 篇上首頁",
+          "stats": {
+            "published": 12,
+            "on_page1": 7,
+            "page1_rate": 0.58,
+            "layers": [
+              "boss",
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": true
+          }
+        }
+      ]
+    },
+    "batch_02_香氛擴香": {
+      "core_word": "香氛擴香",
+      "published_count": 13,
+      "total_articles": 15,
+      "bigwords": [
+        {
+          "bigword": "香氛擴香推薦",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 13,
+            "on_page1": 6,
+            "page1_rate": 0.46,
+            "layers": [
+              "knowledge",
+              "recommend",
+              "rescue"
+            ],
+            "has_boss": false
+          }
+        },
+        {
+          "bigword": "香氛擴香",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 13,
+            "on_page1": 6,
+            "page1_rate": 0.46,
+            "layers": [
+              "knowledge",
+              "recommend",
+              "rescue"
+            ],
+            "has_boss": false
+          }
+        }
+      ]
+    },
+    "batch_03_兒童節禮物": {
+      "core_word": "兒童節禮物",
+      "published_count": 5,
+      "total_articles": 8,
+      "bigwords": [
+        {
+          "bigword": "兒童推薦",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 5,
+            "on_page1": 4,
+            "page1_rate": 0.8,
+            "layers": [
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": false
+          }
+        },
+        {
+          "bigword": "節禮物推薦",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 5,
+            "on_page1": 4,
+            "page1_rate": 0.8,
+            "layers": [
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": false
+          }
+        },
+        {
+          "bigword": "兒童",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 5,
+            "on_page1": 4,
+            "page1_rate": 0.8,
+            "layers": [
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": false
+          }
+        },
+        {
+          "bigword": "節禮物",
+          "status": "too_early",
+          "emoji": "🔴",
+          "rank": null,
+          "detail": "缺 Boss 頁",
+          "suggestion": "先把長尾詞打好，累積群集實力",
+          "stats": {
+            "published": 5,
+            "on_page1": 4,
+            "page1_rate": 0.8,
+            "layers": [
+              "knowledge",
+              "recommend"
+            ],
+            "has_boss": false
+          }
+        }
+      ]
+    }
+  }
+}
