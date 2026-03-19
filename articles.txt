@@ -1,8 +1,8 @@
 # 方格子文章 URL 清單
 # 格式：標題 | URL
-# 新增文章直接在下面加一行，然後跑 python generate_site.py 就會自動更新
+# 新增文章直接在對應主題區塊下面加一行，然後跑 python generate_site.py 就會自動更新
 
-# === batch_01 行動電源（14 篇）===
+# === batch_01 行動電源・充電器（21 篇）===
 【氮化鎵充電器推薦2026】7款GaN快充評比｜瓦數怎麼挑 | https://vocus.cc/article/69abd15ffd89780001d12cf7
 【台灣製行動電源推薦2026】5款MIT行充評比｜BSMI認證 | https://vocus.cc/article/69abdb0dfd89780001d3f115
 【學生行動電源推薦2026】7款平價行充評比｜小資族首選 | https://vocus.cc/article/69abdfb0fd89780001d516f2
@@ -17,16 +17,15 @@
 【磁吸行動電源推薦2026】6款MagSafe行充評比｜Qi2快充 | https://vocus.cc/article/69ae2a11fd897800016281a9
 【行動電源推薦2026】7款高CP值行充評比｜通勤出國露營懶人包 | https://vocus.cc/article/69ae2dcffd89780001638995
 行動電源 BSMI 認證怎麼查？3 步驟教你辨別合格行充｜2026 | https://vocus.cc/article/69b24453fd89780001b6f112
-
-# === batch_04 監視器攝影機 + batch_05 旅遊網卡 + batch_06 情人節禮物（6 篇）===
-【2026嬰兒監視器推薦】｜新手爸媽必看 6 款嬰兒攝影機｜CuboAi/小米/TP-Link 評測 | https://vocus.cc/article/692d62ccfd89780001b4b88e
-【2026小米攝影機推薦】PTT/Dcard熱議！租屋怕被偷看？寵物獨自在家不安心？6款高CP值智慧監控實測比較 | https://vocus.cc/article/692908c8fd897800018ba26f
-【2026日本網卡推薦】PTT/Dcard熱議！5款eSIM/實體卡評比，$119起一下飛機就有網路 | https://vocus.cc/article/692e4f6afd89780001ebe783
 【戶外儲能電源推薦2026】5 款露營停電兩用評比｜移動電源怎麼選 | https://vocus.cc/article/69a25a2dfd89780001f99c19
-【2026 情人節禮物女友實用推薦】7 款送女友每天都會用｜PTT Dcard 好評懶人包 | https://vocus.cc/article/69a5471bfd89780001bca748
-【情人節禮物女友不踩雷2026】6 款安全牌推薦｜PTT Dcard 都說送這個不會錯 | https://vocus.cc/article/69a531c2fd89780001b64a07
+【Qi2磁吸行動電源推薦2026】7款無線行充評比｜吸上去就充 | https://vocus.cc/article/69b902b7fd8978000101eff5
+【2026學生行動電源推薦】7款平價行充評比｜$299起，小資族的第一顆行動電源這樣選 | https://vocus.cc/article/69a7aee7fd897800014ecf1a
+【2026磁吸行動電源推薦】6款MagSafe行充評比｜從$664到Qi2快充，iPhone用戶這樣選 | https://vocus.cc/article/69a7a86dfd897800014cc6b0
+【2026固態行動電源推薦】7款防爆行充評比｜全固態vs半固態，$990起不自燃才是重點 | https://vocus.cc/article/69a7a2fdfd897800014af0cd
+【2026口袋行動電源推薦】6款直插式行充評比｜$299起，出門不用帶線的隨身充電 | https://vocus.cc/article/69a6d03bfd89780001207e97
+【2026 MagSafe 磁吸行動電源推薦】7 款 Qi2 行動充評比｜從輕薄到大容量怎麼挑 | https://vocus.cc/article/69a247e2fd89780001f3309d
 
-# === batch_02 香氛擴香（15 篇）===
+# === batch_02 香氛擴香（16 篇）===
 【2026車用香氛推薦】8款車用芳香劑評比｜從百元香片到精品全攻略 | https://vocus.cc/article/69b0d94dfd8978000120f1dc
 【香氛蠟燭推薦2026】8款薰香蠟燭評比｜新手不踩雷 | https://vocus.cc/article/69af85befd89780001b99e8b
 【擴香機推薦2026】8款水氧機擴香儀評比｜新手這樣選 | https://vocus.cc/article/69b00092fd89780001e3cbc7
@@ -42,48 +41,39 @@
 水氧機怎麼清洗？保養3步驟不變細菌溫床｜2026 | https://vocus.cc/article/69b38cb4fd8978000112da53
 車用香氛太濃怎麼辦？5個方法調整濃淡｜2026 | https://vocus.cc/article/69b00331fd89780001e5340b
 居家香氛完整指南｜蠟燭擴香瓶精油怎麼選2026 | https://vocus.cc/article/69b38022fd897800010e36ae
-
-# === 新增 ===
 水氧機怎麼清洗？保養 3 步驟不變成細菌溫床｜2026 | https://vocus.cc/article/69b7cd73fd89780001310a77
 
-# === 新增 ===
+# === batch_03 兒童節禮物（8 篇）===
 【兒童節平價禮物推薦2026】7款小朋友玩具評比｜送禮不踩雷 | https://vocus.cc/article/69b8f755fd89780001fef231
-
-# === 新增 ===
-【Qi2磁吸行動電源推薦2026】7款無線行充評比｜吸上去就充 | https://vocus.cc/article/69b902b7fd8978000101eff5
-
-# === 新增 ===
 【2026兒童智慧手錶推薦】6款定位通話手錶評比｜接送安全不擔心 | https://vocus.cc/article/69b90b36fd897800010438cc
-
-# === 新增 ===
 兒童玩具安全標章怎麼看？ST、CE、ASTM 一次搞懂｜2026 | https://vocus.cc/article/69b92600fd897800010c3d23
-
-# === 新增 ===
 【兒童書包推薦2026】7款護脊書包評比｜小學生這樣選不踩雷 | https://vocus.cc/article/69b928b8fd897800010d082b
-
-# === 新增 ===
 【兒童益智玩具推薦2026】8款教育學習玩具評比｜邊玩邊學不踩雷 | https://vocus.cc/article/69ba0824fd897800013fad9e
-
-# === 新增 ===
 【兒童相機推薦2026】5款小朋友拍立得相機評比｜新手爸媽必看 | https://vocus.cc/article/69ba0e20fd897800014146f1
-
-# === 新增 ===
 兒童節送禮完整指南｜7 款兒童禮物從玩具到手錶照年齡選不踩雷 | https://vocus.cc/article/69ba171cfd89780001445a92
-
-# === 新增 ===
 小學生書包太重怎麼辦？5 個方法減輕書包重量｜2026 | https://vocus.cc/article/69ba2156fd8978000147bb8a
 
-# === 新增 ===
+# === batch_04 監視器攝影機（2 篇）===
+【2026嬰兒監視器推薦】｜新手爸媽必看 6 款嬰兒攝影機｜CuboAi/小米/TP-Link 評測 | https://vocus.cc/article/692d62ccfd89780001b4b88e
+【2026小米攝影機推薦】PTT/Dcard熱議！租屋怕被偷看？寵物獨自在家不安心？6款高CP值智慧監控實測比較 | https://vocus.cc/article/692908c8fd897800018ba26f
+
+# === batch_05 旅遊網卡（2 篇）===
+【2026日本網卡推薦】PTT/Dcard熱議！5款eSIM/實體卡評比，$119起一下飛機就有網路 | https://vocus.cc/article/692e4f6afd89780001ebe783
+【2026 印尼峇里島網卡推薦】4 家不同方案評比｜印尼上網卡吃到飽怎麼選不踩雷 | https://vocus.cc/article/69a271eafd89780001011eef
+
+# === batch_06 情人節禮物（5 篇）===
+【2026 情人節禮物女友實用推薦】7 款送女友每天都會用｜PTT Dcard 好評懶人包 | https://vocus.cc/article/69a5471bfd89780001bca748
+【情人節禮物女友不踩雷2026】6 款安全牌推薦｜PTT Dcard 都說送這個不會錯 | https://vocus.cc/article/69a531c2fd89780001b64a07
+【2026 情人節禮物女友 1000 元】6 款質感好物推薦｜讓她覺得你很懂 | https://vocus.cc/article/69a51d47fd89780001b0713a
+【2026 情人節禮物 1000 元以下】7 款平價高 CP 值推薦｜小資情人節送禮不踩雷 | https://vocus.cc/article/69a30b3dfd8978000126f468
+【2026 情人節巧克力禮盒推薦】7 款不同價位評比｜情人節送巧克力不踩雷指南 | https://vocus.cc/article/69a307b8fd897800012607f7
+
+# === batch_07 母親節禮物（5 篇）===
 不知道送媽媽什麼？母親節送禮5大方向，照著選就對了｜2026 | https://vocus.cc/article/69ba44fafd89780001512134
-
-# === 新增 ===
 【2026母親節保養品推薦】6款護膚禮盒評比｜送媽媽有面子 | https://vocus.cc/article/69ba5cedfd8978000157ad90
-
-# === 新增 ===
 【2026母親節平價禮物推薦】7款小資送禮好物評比｜送禮不踩雷 | https://vocus.cc/article/69ba71c3fd897800015d455f
-
-# === 新增 ===
-【2026母親節廚房家電推薦】8款送媽媽料理家電評比｜實用不踩雷 | https://vocus.cc/article/69bb88a8fd89780001aa737e
-
-# === 新增 ===
+【母親節廚房家電推薦2026】8款送媽媽料理家電評比｜實用不踩雷 | https://vocus.cc/article/69bb88a8fd89780001aa737e
 母親節禮物怎麼挑？按預算和媽媽類型選不踩雷｜2026 送禮指南 | https://vocus.cc/article/69bb9249fd89780001ad35e6
+
+# === 其他（1 篇）===
+【2026搞笑交換禮物推薦】PTT/Dcard熱議！地獄禮物怎麼選？9款廢到笑但超實用的交換禮物完整評測 | https://vocus.cc/article/692add13fd8978000107e7ea

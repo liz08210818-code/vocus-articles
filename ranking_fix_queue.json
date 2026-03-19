@@ -11,57 +11,122 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：氮化鎵充電器有比較好嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "氮化鎵充電器有比較好嗎？",
-          "paa_snippet": "而氮化鎵充電器的優點之一就是具有良好的導熱性、散熱效果更快，相較於傳統的矽基材料，氮化鎵充電器能夠更迅速地將產生的熱量傳遞到周圍環境中，減少熱點的形成，有效降低充電器的溫度，在快速充電時也較不易發燙。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【台灣製行動電源推薦2026】5款MIT行充評比｜BSMI認證",
+      "url": "https://vocus.cc/article/69abdb0dfd89780001d3f115",
+      "md_path": "output\\batch_01_行動電源\\v2台灣製行動電源\\台灣製行動電源推薦_方格子研究文.md",
+      "keyword": "台灣製行動電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：65W快充 會傷電池嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "65W快充 會傷電池嗎？",
-          "paa_snippet": "Q3：充電器65W這麼高，不會傷害電池嗎？ 不會的！ 其實充電器的65W是指能輸出最大的功率數值，而不是無論如何都維持高輸出65W。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【學生行動電源推薦2026】7款平價行充評比｜小資族首選",
+      "url": "https://vocus.cc/article/69abdfb0fd89780001d516f2",
+      "md_path": "output\\batch_01_行動電源\\v3學生行動電源\\學生行動電源推薦_方格子研究文.md",
+      "keyword": "學生行動電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：25W跟45W差在哪？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "25W跟45W差在哪？",
-          "paa_snippet": "25W vs 45W：充電功率差異解析 充電功率（W）=電壓（V）×電流（A）。 45W快充通常採用9V/5A或12V/3.75A的電壓電流組合，而25W則多爲5V/3A或9V/2.78A。 這意味着，45W充電器能在更短時間內完成充電，而25W則會稍慢一些。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "10000mAh 和 20000mAh 差多少？到底該選哪個？｜行動電源容量挑選指南",
+      "url": "https://vocus.cc/article/69abe49afd89780001d64fca",
+      "md_path": "output\\batch_01_行動電源\\v410000mAh和20000mAh差多少\\10000mAh和20000mAh差多少_方格子研究文.md",
+      "keyword": "10000mAh 和 20000mAh 差多少",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：anker 是哪國品牌？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "anker 是哪國品牌？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【口袋行動電源推薦2026】6款直插式行充評比｜免帶線",
+      "url": "https://vocus.cc/article/69abeb0ffd89780001d8246a",
+      "md_path": "output\\batch_01_行動電源\\v5口袋行動電源\\口袋行動電源推薦_方格子研究文.md",
+      "keyword": "口袋行動電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：器推（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「器推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "器推",
-          "competitor_examples": [
-            {
-              "title": "專家監製10 大氮化鎵充電器推薦排行榜【2026最新】",
-              "snippet": "有鑑於充電器的散熱、功率以及外殼材質等因素可能影響安全性，建議至少選擇價格在500元以上的知名品牌，如酷泰科、ANKER、AUKEY、倍思、台達Innergie、亞果、ONPRO 等，才能 ..."
-            },
-            {
-              "title": "什麼是氮化鎵？氮化鎵充電器3大優點＆常見問題解析",
-              "snippet": "氮化鎵充電器推薦1：DTAudio聆翔65W氮化鎵充電器｜BSMI國家認證（支援PPS充電技術） · 氮化鎵充電器推薦2：氮化鎵33W iPhone16 充電組｜PD快充、雙TypeC（支援PPS充電技術） · 氮化鎵 ..."
-            },
-            {
-              "title": "快充充電器推薦",
-              "snippet": "... 氮化鎵快速充電. $790. PX 大通PWC-7012W 70W 三孔(2C1A)氮化鎵快速充電器(白色). 促原價1590 (省800). PX大通氮化鎵充電器2 Type C 48瓦白色PWC-4802W. $588. PX大通氮化 ..."
-            }
-          ]
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【可上飛機行動電源推薦2026】6款出國行充評比｜Wh有標，安檢不刁難",
+      "url": "https://vocus.cc/article/69abf2a1fd89780001da36aa",
+      "md_path": "output\\batch_01_行動電源\\v6可上飛機行動電源\\可上飛機行動電源推薦_方格子研究文.md",
+      "keyword": "可上飛機行動電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
+        {
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行動電源怎麼選？mAh、W、Wh 一次講清楚｜2026 新手必看",
+      "url": "https://vocus.cc/article/69abf987fd89780001dbcb67",
+      "md_path": "output\\batch_01_行動電源\\v7行動電源怎麼選\\行動電源怎麼選_方格子研究文.md",
+      "keyword": "行動電源怎麼選",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
+        {
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行動電源膨脹了還能用嗎？壽命、安全、回收一次講｜2026 必看",
+      "url": "https://vocus.cc/article/69abfb72fd89780001dc33ca",
+      "md_path": "output\\batch_01_行動電源\\v8行動電源膨脹了還能用嗎\\行動電源膨脹了還能用嗎_方格子研究文.md",
+      "keyword": "行動電源膨脹了還能用嗎",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
+        {
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -74,83 +139,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：MagSafe為什麼停產？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "MagSafe為什麼停產？",
-          "paa_snippet": "停產背後的原因 蘋果宣布停止銷售這兩款產品的決定主要是因為iPhone 15 的推出。 新款iPhone 15 機型都配備了USB-C 接口，而不再使用Lightning 接口。 這意味著MagSafe 外接電池和MagSafe 雙項充電器的現有版本無法直接與這些新款iPhone 相容。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：MagSafe一定要買殼嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "MagSafe一定要買殼嗎？",
-          "paa_snippet": "首先，MagSafe = (1) 磁性吸附（磁力標準、放置和極性）+ (2) 無線充電技術。 手機殼無法協助充電，僅用於固定。 如果沒有MagSafe 手機殼，內建的iPhone 磁鐵就無法像使用手機殼時那樣牢固地吸附。"
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：電器（前5名有13篇提到）",
-          "content": "Google 前 5 名對手中有 13 篇文章提到「電器」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "電器",
-          "competitor_examples": [
-            {
-              "title": "還在煩惱充電線收納？2026年10款高品質無線充電盤推薦",
-              "snippet": "如果頻繁需要帶電子裝置出門旅行或出差的話，幫主推薦可以方便帶出門的AUKEY MagFusion Z，能一次充三個裝置，內附PD 30W 充電器、50W Type-C 對Type-C 充電線及收納包，一包 ..."
-            },
-            {
-              "title": "無線快充充電盤",
-              "snippet": "【Gigastone 立達國際】三合一23W折疊式磁吸無線充電座WP-9330G(iPhone17/蘋果耳機/手錶MagSafe 充電盤) · 【Philips 飛利浦】DLK3537Q 磁吸無線快充充電器1.25M(MagSafe/雙 ..."
-            },
-            {
-              "title": "【無線充電】Qi2 Vs. MagSafe 哪個更強？差異、推薦產品一次 ...",
-              "snippet": "目前有推薦的Qi2充電器嗎？ · AUKEY MagFusion Z · UNITEK Qi2 三合一折疊磁吸無線充電器 · Allite WQ1 2+1 磁吸無線充電座 · Allite Qi2 車用磁吸充電器."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：充電器（前5名有13篇提到）",
-          "content": "Google 前 5 名對手中有 13 篇文章提到「充電器」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "充電器",
-          "competitor_examples": [
-            {
-              "title": "還在煩惱充電線收納？2026年10款高品質無線充電盤推薦",
-              "snippet": "如果頻繁需要帶電子裝置出門旅行或出差的話，幫主推薦可以方便帶出門的AUKEY MagFusion Z，能一次充三個裝置，內附PD 30W 充電器、50W Type-C 對Type-C 充電線及收納包，一包 ..."
-            },
-            {
-              "title": "無線快充充電盤",
-              "snippet": "【Gigastone 立達國際】三合一23W折疊式磁吸無線充電座WP-9330G(iPhone17/蘋果耳機/手錶MagSafe 充電盤) · 【Philips 飛利浦】DLK3537Q 磁吸無線快充充電器1.25M(MagSafe/雙 ..."
-            },
-            {
-              "title": "【無線充電】Qi2 Vs. MagSafe 哪個更強？差異、推薦產品一次 ...",
-              "snippet": "目前有推薦的Qi2充電器嗎？ · AUKEY MagFusion Z · UNITEK Qi2 三合一折疊磁吸無線充電器 · Allite WQ1 2+1 磁吸無線充電座 · Allite Qi2 車用磁吸充電器."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：線充電器（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「線充電器」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "線充電器",
-          "competitor_examples": [
-            {
-              "title": "【無線充電】Qi2 Vs. MagSafe 哪個更強？差異、推薦產品一次 ...",
-              "snippet": "目前有推薦的Qi2充電器嗎？ · AUKEY MagFusion Z · UNITEK Qi2 三合一折疊磁吸無線充電器 · Allite WQ1 2+1 磁吸無線充電座 · Allite Qi2 車用磁吸充電器."
-            },
-            {
-              "title": "【iPhone 無線充電器推薦】PTT 網友也推薦的10 款與選購 ...",
-              "snippet": "10 款PTT 網友也推薦的iPhone 無線充電器 · iPhone 無線充電器推薦1：Apple MagSafe 充電器 · iPhone 無線充電器推薦2：Belkin BoostCharge Pro Qi2 三合一無線充電板."
-            },
-            {
-              "title": "無線充電器推薦",
-              "snippet": "EcLife良興提供各大品牌無線充電器，包含：anker、mophie、j5...等，支援多種快充標準，為你的iPhone和安卓手機無線充電，線上訂購無線充電器超方便！"
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -163,69 +155,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：電池（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「電池」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "電池",
-          "competitor_examples": [
-            {
-              "title": "固態電池行動電源該買哪一台? 台灣三大 ...",
-              "snippet": "固態電池行動電源該買哪一台? 台灣三大固態電池行動電源推薦 · 1.Enerpad UFO 固態磁吸行動電源系列。 · 2.Grantclassic穩如鈦山TITANSHIELD固態行動電源 ..."
-            },
-            {
-              "title": "請問有推薦的固態電池行動電源嗎？🙏🏻 （最近看到太多爆炸 ...",
-              "snippet": "1. TITANSHIELD 穩如鈦山固態行動電源 • 容量：10,000mAh • 特色：採用固態鋰電池技術，經過穿刺與摔落測試，提升安全性。 • 適合：注重安全性與耐用性的使用者 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：態電（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「態電」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "態電",
-          "competitor_examples": [
-            {
-              "title": "固態電池行動電源該買哪一台? 台灣三大 ...",
-              "snippet": "固態電池行動電源該買哪一台? 台灣三大固態電池行動電源推薦 · 1.Enerpad UFO 固態磁吸行動電源系列。 · 2.Grantclassic穩如鈦山TITANSHIELD固態行動電源 ..."
-            },
-            {
-              "title": "請問有推薦的固態電池行動電源嗎？🙏🏻 （最近看到太多爆炸 ...",
-              "snippet": "1. TITANSHIELD 穩如鈦山固態行動電源 • 容量：10,000mAh • 特色：採用固態鋰電池技術，經過穿刺與摔落測試，提升安全性。 • 適合：注重安全性與耐用性的使用者 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：池行（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「池行」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "池行",
-          "competitor_examples": [
-            {
-              "title": "固態電池行動電源該買哪一台? 台灣三大 ...",
-              "snippet": "固態電池行動電源該買哪一台? 台灣三大固態電池行動電源推薦 · 1.Enerpad UFO 固態磁吸行動電源系列。 · 2.Grantclassic穩如鈦山TITANSHIELD固態行動電源 ..."
-            },
-            {
-              "title": "請問有推薦的固態電池行動電源嗎？🙏🏻 （最近看到太多爆炸 ...",
-              "snippet": "1. TITANSHIELD 穩如鈦山固態行動電源 • 容量：10,000mAh • 特色：採用固態鋰電池技術，經過穿刺與摔落測試，提升安全性。 • 適合：注重安全性與耐用性的使用者 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：固態行動電源推薦ptt",
-          "content": "「固態行動電源推薦ptt」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "固態行動電源推薦ptt"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：固態行動電源推薦dcard",
-          "content": "「固態行動電源推薦dcard」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "固態行動電源推薦dcard"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -238,81 +171,26 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：戶外（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「戶外」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "戶外",
-          "competitor_examples": [
-            {
-              "title": "大河先生官方網站攜帶式電源推薦",
-              "snippet": "戶外大容量攜帶式電源​ 【小瓦力PRO】emirai 手掌大儲能小瓦力再進化！！ 前開式設計超便利｜拉開拉鍊即可使用電源！ 次世代行動電站用的專屬收納袋！ 小瓦力｜小瓦力PRO專用電源 ..."
-            },
-            {
-              "title": "10 大手提式行動電源推薦排行榜",
-              "snippet": "1. Philips飛利浦. PHILIPS ; 2. KOTSURU. 8馬赫攜帶式戶外行動電源 ; 3. Jackery. 儲能行動電源 ; 4. emirai. 次世代行動電站 ; 5. Shell殼牌. 大黃蜂戶外行動電源 ..."
-            },
-            {
-              "title": "露營的行動儲能行動電源",
-              "snippet": "1.戶外行動電源(110v)，第一件事看口袋沒兩萬不用想太多，乖乖用usb一般行動電源就好 · 2.基本規格除了電量多少，主要是功率會被偷，一分錢一分貨最好500W以上， ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【磁吸行動電源推薦2026】6款MagSafe行充評比｜Qi2快充",
+      "url": "https://vocus.cc/article/69ae2a11fd897800016281a9",
+      "md_path": "output\\batch_01_行動電源\\v11磁吸行動電源\\磁吸行動電源推薦_方格子研究文.md",
+      "keyword": "磁吸行動電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：儲能（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「儲能」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "儲能",
-          "competitor_examples": [
-            {
-              "title": "大河先生官方網站攜帶式電源推薦",
-              "snippet": "戶外大容量攜帶式電源​ 【小瓦力PRO】emirai 手掌大儲能小瓦力再進化！！ 前開式設計超便利｜拉開拉鍊即可使用電源！ 次世代行動電站用的專屬收納袋！ 小瓦力｜小瓦力PRO專用電源 ..."
-            },
-            {
-              "title": "10 大手提式行動電源推薦排行榜",
-              "snippet": "1. Philips飛利浦. PHILIPS ; 2. KOTSURU. 8馬赫攜帶式戶外行動電源 ; 3. Jackery. 儲能行動電源 ; 4. emirai. 次世代行動電站 ; 5. Shell殼牌. 大黃蜂戶外行動電源 ..."
-            },
-            {
-              "title": "露營的行動儲能行動電源",
-              "snippet": "1.戶外行動電源(110v)，第一件事看口袋沒兩萬不用想太多，乖乖用usb一般行動電源就好 · 2.基本規格除了電量多少，主要是功率會被偷，一分錢一分貨最好500W以上， ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：源推（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「源推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "源推",
-          "competitor_examples": [
-            {
-              "title": "大河先生官方網站攜帶式電源推薦",
-              "snippet": "戶外大容量攜帶式電源​ 【小瓦力PRO】emirai 手掌大儲能小瓦力再進化！！ 前開式設計超便利｜拉開拉鍊即可使用電源！ 次世代行動電站用的專屬收納袋！ 小瓦力｜小瓦力PRO專用電源 ..."
-            },
-            {
-              "title": "10 大手提式行動電源推薦排行榜",
-              "snippet": "1. Philips飛利浦. PHILIPS ; 2. KOTSURU. 8馬赫攜帶式戶外行動電源 ; 3. Jackery. 儲能行動電源 ; 4. emirai. 次世代行動電站 ; 5. Shell殼牌. 大黃蜂戶外行動電源 ..."
-            },
-            {
-              "title": "行動充電站怎麼挑？大容量儲能電池選購攻略，露營 - isolar",
-              "snippet": "戶外行動電源推薦－iSOLAR 行動充電站的8 大核心優勢 · （1）大容量、多輸出孔設計 · （2）支援太陽能充電，環保又便利 · （3）UPS 不斷電功能，緊急備用更安心 · （4）輕 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：露營行動電源mobile01",
-          "content": "「露營行動電源mobile01」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "露營行動電源mobile01"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：大容量戶外行動電源",
-          "content": "「大容量戶外行動電源」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "大容量戶外行動電源"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -325,81 +203,42 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：自帶（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「自帶」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "自帶",
-          "competitor_examples": [
-            {
-              "title": "行動電源- momo購物網- 好評推薦- 2026年3月",
-              "snippet": "行動電源 · 【ADAM 亞果元素】VIONTA Q 10000mAh 輕巧款自帶線行動電源 · 【YOMIX 優迷】防爆超迷你20W快充5000mAh SSB固態磁吸."
-            },
-            {
-              "title": "行動電源熱銷推薦2026 Top30排行榜",
-              "snippet": "行動電源Top 30 推薦 · Anker A1695 行動電源25000mAh 165W 自帶伸縮線 · Anker A1664 10000mAh Qi2 超薄磁吸行動電源 · 小米Xiaomi 纖薄磁吸行動電源5000 15W 冰川銀."
-            },
-            {
-              "title": "外出必備！行動充電器推薦｜通勤族、旅遊族、筆電工作族怎麼 ...",
-              "snippet": "... 行動電源04:28 開箱--B815 狠能充筆電快充自帶線行動電源06:11 總結#Choetech #行動電源推薦#充電器推薦#充電器選擇#筆電充電器#磁吸行動電源 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "行動電源 BSMI 認證怎麼查？3 步驟教你辨別合格行充｜2026",
+      "url": "https://vocus.cc/article/69b24453fd89780001b6f112",
+      "md_path": "output\\batch_01_行動電源\\v14_BSMI認證查詢\\BSMI認證查詢_方格子研究文.md",
+      "keyword": "行動電源 BSMI 認證怎麼查",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：快充（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「快充」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "快充",
-          "competitor_examples": [
-            {
-              "title": "行動電源- momo購物網- 好評推薦- 2026年3月",
-              "snippet": "行動電源 · 【ADAM 亞果元素】VIONTA Q 10000mAh 輕巧款自帶線行動電源 · 【YOMIX 優迷】防爆超迷你20W快充5000mAh SSB固態磁吸."
-            },
-            {
-              "title": "外出必備！行動充電器推薦｜通勤族、旅遊族、筆電工作族怎麼 ...",
-              "snippet": "... 行動電源04:28 開箱--B815 狠能充筆電快充自帶線行動電源06:11 總結#Choetech #行動電源推薦#充電器推薦#充電器選擇#筆電充電器#磁吸行動電源 ..."
-            },
-            {
-              "title": "行動電源推薦指南：安全認證、快充規格、容量挑選全解析",
-              "snippet": "10款行動電源推薦 · 1. 20,000mAh自帶雙線2A快充輕薄行動電源 · 2. 2025新款磁吸移動電源無線快充自帶線設計 · 3. 20,000mAh超大容量PD閃充行動電源 · 4."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【2026嬰兒監視器推薦】｜新手爸媽必看 6 款嬰兒攝影機｜CuboAi/小米/TP-Link 評測",
+      "url": "https://vocus.cc/article/692d62ccfd89780001b4b88e",
+      "md_path": "output\\batch_04_監視器攝影機\\v30嬰兒監視器\\嬰兒監視器推薦_方格子研究文.md",
+      "keyword": "嬰兒監視器推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：磁吸（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「磁吸」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "磁吸",
-          "competitor_examples": [
-            {
-              "title": "行動電源- momo購物網- 好評推薦- 2026年3月",
-              "snippet": "行動電源 · 【ADAM 亞果元素】VIONTA Q 10000mAh 輕巧款自帶線行動電源 · 【YOMIX 優迷】防爆超迷你20W快充5000mAh SSB固態磁吸."
-            },
-            {
-              "title": "行動電源熱銷推薦2026 Top30排行榜",
-              "snippet": "行動電源Top 30 推薦 · Anker A1695 行動電源25000mAh 165W 自帶伸縮線 · Anker A1664 10000mAh Qi2 超薄磁吸行動電源 · 小米Xiaomi 纖薄磁吸行動電源5000 15W 冰川銀."
-            },
-            {
-              "title": "外出必備！行動充電器推薦｜通勤族、旅遊族、筆電工作族怎麼 ...",
-              "snippet": "... 行動電源04:28 開箱--B815 狠能充筆電快充自帶線行動電源06:11 總結#Choetech #行動電源推薦#充電器推薦#充電器選擇#筆電充電器#磁吸行動電源 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：行動電源推薦dcard",
-          "content": "「行動電源推薦dcard」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "行動電源推薦dcard"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：行動電源推薦ptt",
-          "content": "「行動電源推薦ptt」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "行動電源推薦ptt"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -412,62 +251,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：小米監視器哪一台好？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "小米監視器哪一台好？",
-          "paa_snippet": "建議根據安裝環境選擇產品，室內可選擇Xiaomi 智慧攝影機系列，室外則推薦CW100、BW300 等室外攝影機。 可依需求挑選有AI 偵測、夜視、廣角等功能的產品，並參考用戶評論與官方推薦，找到最適合自己的家庭安全攝影機。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：小米C400可以講話嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "小米C400可以講話嗎？",
-          "paa_snippet": "本產品支援雙向即時語音通話*，可在最遠5 公尺*的距離內收音，使通話更順暢；為麥克風啟用智慧降噪功能，可讓對話更清晰。 好的，媽咪。 寶貝，我快到家了。 *雙向語音通話是指透過米家APP 呼叫Xiaomi 智慧攝影機C400 進行交談。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：小米拍照最好的手機？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "小米拍照最好的手機？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：台灣（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「台灣」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "台灣",
-          "competitor_examples": [
-            {
-              "title": "小米攝影監控設備、智慧安全– Xiaomi 台灣",
-              "snippet": "小米台灣家庭安全攝影機有哪些熱門產品？ 小米台灣家庭安全攝影機分類頁目前熱賣的產品有Xiaomi 智慧攝影機C400、C500、C701、C100，以及室外攝影機CW100、BW300 等。 這些 ..."
-            },
-            {
-              "title": "[整理] 台灣上市小米攝影機規格比較表攝影機討論區2026/01 ...",
-              "snippet": "大大請問。 Xiaomi 智慧攝影機C300 XMC01。 智慧攝影機標準版2K MJSXJ03HL。 小米智慧攝影機雲台版2K Pro MJSXJ06CM。 以上這3台型號米家app有鎖區嗎?"
-            },
-            {
-              "title": "Xiaomi 智慧攝影機C400 客戶評價",
-              "snippet": "Xiaomi 智慧攝影機C400 評價: 400 萬像素| 360° 旋轉| AI 人體偵測| 支援2.4GHz / 5GHz Wi-Fi | Xiaomi 台灣."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：安全（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「安全」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "安全",
-          "competitor_examples": [
-            {
-              "title": "小米攝影監控設備、智慧安全– Xiaomi 台灣",
-              "snippet": "小米台灣家庭安全攝影機有哪些熱門產品？ 小米台灣家庭安全攝影機分類頁目前熱賣的產品有Xiaomi 智慧攝影機C400、C500、C701、C100，以及室外攝影機CW100、BW300 等。 這些 ..."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -480,82 +267,26 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：日本網卡哪一家比較好？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "日本網卡哪一家比較好？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【戶外儲能電源推薦2026】5 款露營停電兩用評比｜移動電源怎麼選",
+      "url": "https://vocus.cc/article/69a25a2dfd89780001f99c19",
+      "md_path": "output\\batch_01_行動電源\\v33戶外儲能電源\\戶外儲能電源推薦_方格子研究文.md",
+      "keyword": "戶外儲能電源推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：卡推（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「卡推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "卡推",
-          "competitor_examples": [
-            {
-              "title": "【2026 】10大日本網卡推薦清單｜最新推薦方案＆價格一次看",
-              "snippet": "二、日本網卡推薦哪間？10 大日本eSIM＆SIM 卡推薦品牌及方案一覽！ · 日本網卡推薦品牌#1｜Holafly · 日本網卡推薦品牌#2｜Way Sim 威訊 · 日本網卡推薦品牌#3｜DJB · 日本 ..."
-            },
-            {
-              "title": "日本網卡推薦2026》日本網路吃到飽/SIM卡/eSIM比較 ...",
-              "snippet": "這邊編輯推薦你這款「KDDI無限流量原生日本eSIM」，是市場上唯一電信公司直營的日本eSIM，由KDDI電信提供當地的網路服務，這款eSIM提供4日～15日不限流量吃到 ..."
-            },
-            {
-              "title": "【日本網卡推薦】日本網卡這樣買不踩雷！讓JOYTEL教你挑選 ...",
-              "snippet": "⌦【SIM卡】日本JOY火箭卡⎪原生線路吃到飽⎪3-30天⎪日本上網卡（每日500MB/1GB/吃到飽）. 適合：追求網速、穩定的旅人，總共有3種流量規格可以選擇。 火箭卡是市面上少見的日本 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：卡推薦（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「卡推薦」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "卡推薦",
-          "competitor_examples": [
-            {
-              "title": "【2026 】10大日本網卡推薦清單｜最新推薦方案＆價格一次看",
-              "snippet": "二、日本網卡推薦哪間？10 大日本eSIM＆SIM 卡推薦品牌及方案一覽！ · 日本網卡推薦品牌#1｜Holafly · 日本網卡推薦品牌#2｜Way Sim 威訊 · 日本網卡推薦品牌#3｜DJB · 日本 ..."
-            },
-            {
-              "title": "日本網卡推薦2026》日本網路吃到飽/SIM卡/eSIM比較 ...",
-              "snippet": "這邊編輯推薦你這款「KDDI無限流量原生日本eSIM」，是市場上唯一電信公司直營的日本eSIM，由KDDI電信提供當地的網路服務，這款eSIM提供4日～15日不限流量吃到 ..."
-            },
-            {
-              "title": "【日本網卡推薦】日本網卡這樣買不踩雷！讓JOYTEL教你挑選 ...",
-              "snippet": "⌦【SIM卡】日本JOY火箭卡⎪原生線路吃到飽⎪3-30天⎪日本上網卡（每日500MB/1GB/吃到飽）. 適合：追求網速、穩定的旅人，總共有3種流量規格可以選擇。 火箭卡是市面上少見的日本 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：網卡推（前5名有7篇提到）",
-          "content": "Google 前 5 名對手中有 7 篇文章提到「網卡推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "網卡推",
-          "competitor_examples": [
-            {
-              "title": "【2026 】10大日本網卡推薦清單｜最新推薦方案＆價格一次看",
-              "snippet": "二、日本網卡推薦哪間？10 大日本eSIM＆SIM 卡推薦品牌及方案一覽！ · 日本網卡推薦品牌#1｜Holafly · 日本網卡推薦品牌#2｜Way Sim 威訊 · 日本網卡推薦品牌#3｜DJB · 日本 ..."
-            },
-            {
-              "title": "日本網卡推薦2026》日本網路吃到飽/SIM卡/eSIM比較 ...",
-              "snippet": "這邊編輯推薦你這款「KDDI無限流量原生日本eSIM」，是市場上唯一電信公司直營的日本eSIM，由KDDI電信提供當地的網路服務，這款eSIM提供4日～15日不限流量吃到 ..."
-            },
-            {
-              "title": "【日本網卡推薦】日本網卡這樣買不踩雷！讓JOYTEL教你挑選 ...",
-              "snippet": "⌦【SIM卡】日本JOY火箭卡⎪原生線路吃到飽⎪3-30天⎪日本上網卡（每日500MB/1GB/吃到飽）. 適合：追求網速、穩定的旅人，總共有3種流量規格可以選擇。 火箭卡是市面上少見的日本 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：日本網卡dcard",
-          "content": "「日本網卡dcard」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "日本網卡dcard"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -568,57 +299,26 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：情人節要送女友什麼？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "情人節要送女友什麼？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【情人節禮物女友不踩雷2026】6 款安全牌推薦｜PTT Dcard 都說送這個不會錯",
+      "url": "https://vocus.cc/article/69a531c2fd89780001b64a07",
+      "md_path": "output\\batch_06_情人節禮物\\v35情人節禮物女友不踩雷\\情人節禮物女友不踩雷推薦_方格子研究文.md",
+      "keyword": "情人節禮物女友不踩雷",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：不知道要送女友什麼？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "不知道要送女友什麼？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：七夕情人節要送什麼禮物？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "七夕情人節要送什麼禮物？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：女生會想收到什麼禮物？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "女生會想收到什麼禮物？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：節禮（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「節禮」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "節禮",
-          "competitor_examples": [
-            {
-              "title": "情人節禮物排行榜TOP20公開！女生喜歡的驚喜清單，情侶必收藏",
-              "snippet": "如果預算比較有限，也可以挑一些有巧思的禮物，像是可以刻字的項鍊、情侶插畫、香氛蠟燭等等，這些不只實用，也很有紀念價值。如果你有一點預算，那可以考慮小 ..."
-            },
-            {
-              "title": "情人節送什麼給女友？挑選禮物3原則及4大 ...",
-              "snippet": "情人節送什麼給女友？挑選禮物3原則及4大情人節禮物推薦清單幫你找靈感！ · 曖昧／剛在一起：送花、巧克力、卡片；約會以看電影或吃飯為主。 · 穩定交往：送飾品、香氛、娃娃；可 ..."
-            },
-            {
-              "title": "2026情人節禮物推薦：6種男女都愛的類型、熱門清單大公開",
-              "snippet": "情人節禮物推薦：3.美妝類 ... 每個女孩都希望可以在另一半面前呈現最美好的樣子，美妝類產品也是很適合的禮物選項，送美妝類產品會建議挑選眼妝、頰彩、唇膏為 ..."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -631,66 +331,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：怎麼讓車內香香的？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "怎麼讓車內香香的？",
-          "paa_snippet": "車內的空間有限，要如何有效率的使用精油擴香，達到真正的舒適感受呢？ 最簡單的方式，就是將精油滴在衛生紙上後，再將滴有精油的衛生紙放在風口處，讓氣味飄逸出來，達到車內自然擴香效果。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：車子裡面很臭怎麼辦？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "車子裡面很臭怎麼辦？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：什麼味道會讓人感到舒適？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "什麼味道會讓人感到舒適？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：擴香（前5名有7篇提到）",
-          "content": "Google 前 5 名對手中有 7 篇文章提到「擴香」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "擴香",
-          "competitor_examples": [
-            {
-              "title": "車用香氛選購必看！9款高人氣車用擴香與4大選購原則一次 ...",
-              "snippet": "車用芳香推薦1. SHARECO：香水吊卡 · 車用芳香推薦2. SHARECO：擴香石 · 車用芳香推薦3. KLOWER PANDOR：2705 暮光琥珀空間香氛包 · 車用芳香推薦4. Jo Malone： ..."
-            },
-            {
-              "title": "有沒有推薦放車上香香的？ 買過寶雅的香片，但持續不久不 ...",
-              "snippet": "推薦太陽能車用擴香儀，旋轉香薰光感旋轉快速擴香s.shopee.tw/9pLTZ… 太陽能擴香儀贈精油【178小舖】車載香薰旋轉香薰汽車."
-            },
-            {
-              "title": "車用香氛推薦- POYA寶雅線上買",
-              "snippet": "車用 · 香氛 · 風倍清車用消臭芳香扣2入-清新薄荷. 風倍清車用消臭芳香扣2入-清新薄荷. $299. $249 · LAVONS車用擴香夾-氣泡香檳. LAVONS車用擴香夾-氣泡香檳. $180. $149."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：芳香（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「芳香」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "芳香",
-          "competitor_examples": [
-            {
-              "title": "車用香氛選購必看！9款高人氣車用擴香與4大選購原則一次 ...",
-              "snippet": "車用芳香推薦1. SHARECO：香水吊卡 · 車用芳香推薦2. SHARECO：擴香石 · 車用芳香推薦3. KLOWER PANDOR：2705 暮光琥珀空間香氛包 · 車用芳香推薦4. Jo Malone： ..."
-            },
-            {
-              "title": "車用香氛推薦- POYA寶雅線上買",
-              "snippet": "車用 · 香氛 · 風倍清車用消臭芳香扣2入-清新薄荷. 風倍清車用消臭芳香扣2入-清新薄荷. $299. $249 · LAVONS車用擴香夾-氣泡香檳. LAVONS車用擴香夾-氣泡香檳. $180. $149."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -703,59 +347,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：無印良品香氛是天然的嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "無印良品香氛是天然的嗎？",
-          "paa_snippet": "百分百天然成分的精油 無印良品的香薰油100%萃取自大自然的植物及果實， 並由世界各地精心挑選，純淨天然。 配合無印良品各式香薰噴霧器， 隨時隨地享受源自大自然的芳香。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：yankee candle天然嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "yankee candle天然嗎？",
-          "paa_snippet": "Yankee Candle的價位相當平易近人，用量又很省，因此許多人封他為最平價的「高CP值」蠟燭品牌，雖然成分以及原料並不是完全天然，但依然廣受喜愛，如果不介意成分天然與否，Yankee Candle也是個相當不錯的選擇。"
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：木質（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「木質」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "木質",
-          "competitor_examples": [
-            {
-              "title": "10款木質調蠟燭！滿滿大自然清新感，入秋需要溫暖、療癒 ...",
-              "snippet": "秋冬木質調蠟燭推薦：Cosmic Mansion; 秋冬木質調蠟燭推薦：Moody; 秋冬木質調蠟燭推薦：Handhandhand叁手香氛; 秋冬木質調蠟燭推薦：It's Saturday!"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：質調（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「質調」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "質調",
-          "competitor_examples": [
-            {
-              "title": "10款木質調蠟燭！滿滿大自然清新感，入秋需要溫暖、療癒 ...",
-              "snippet": "秋冬木質調蠟燭推薦：Cosmic Mansion; 秋冬木質調蠟燭推薦：Moody; 秋冬木質調蠟燭推薦：Handhandhand叁手香氛; 秋冬木質調蠟燭推薦：It's Saturday!"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：調蠟（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「調蠟」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "調蠟",
-          "competitor_examples": [
-            {
-              "title": "10款木質調蠟燭！滿滿大自然清新感，入秋需要溫暖、療癒 ...",
-              "snippet": "秋冬木質調蠟燭推薦：Cosmic Mansion; 秋冬木質調蠟燭推薦：Moody; 秋冬木質調蠟燭推薦：Handhandhand叁手香氛; 秋冬木質調蠟燭推薦：It's Saturday!"
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -768,53 +363,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：如何讓房間一直香香的？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "如何讓房間一直香香的？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：擴香對身體有害嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "擴香對身體有害嗎？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：無印良品擴香是天然的嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "無印良品擴香是天然的嗎？",
-          "paa_snippet": "百分百天然成分的精油 無印良品的香薰油100%萃取自大自然的植物及果實， 並由世界各地精心挑選，純淨天然。 配合無印良品各式香薰噴霧器， 隨時隨地享受源自大自然的芳香。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：什麼味道會讓人感到舒適？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "什麼味道會讓人感到舒適？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：儀推（前5名有8篇提到）",
-          "content": "Google 前 5 名對手中有 8 篇文章提到「儀推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "儀推",
-          "competitor_examples": [
-            {
-              "title": "專家監製10 大擴香儀推薦排行榜【2026最新】",
-              "snippet": "擴香儀推薦排行榜 · Herb24草本24. 晨霧純精油擴香儀II · PINFIS品菲特. 歐風火燭香氛機 · ANDZEN. 日系風格定時香氛鋁合金擴香儀 ｜ AZ-8500 · MUJI無印良品. 無水香氛機 ｜ MJ- ..."
-            },
-            {
-              "title": "【 10 款人氣擴香儀推薦】擴香儀缺點有哪些？與水氧機差異？",
-              "snippet": "10 款人氣擴香儀推薦！ · 擴香儀推薦1：原木香森呼吸純精油擴香儀 · 擴香儀推薦2：無印良品無水香氛儀 · 擴香儀推薦3：芳療家木精靈定時擴香儀 · 擴香儀推薦4： ..."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -827,70 +379,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：無印良品的擴香是天然的嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "無印良品的擴香是天然的嗎？",
-          "paa_snippet": "無印良品的香薰油100%萃取自大自然的植物及果實， 並由世界各地精心挑選，純淨天然。 配合無印良品各式香薰噴霧器， 隨時隨地享受源自大自然的芳香。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：什麼味道會讓人感到舒適？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "什麼味道會讓人感到舒適？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：香氛會對身體不好嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "香氛會對身體不好嗎？",
-          "paa_snippet": "在2014的研究結果顯示，在一般使用狀況下，香氛蠟燭確實會釋放多種蒸氣與粒子，但我們所吸入的量並不會對健康造成危害，即使在狹小的空間持續燃燒4小時，這些物質的最高濃度也不達世界衛生組織標準的一半，並不需過度憂心。"
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：香推（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「香推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "香推",
-          "competitor_examples": [
-            {
-              "title": "擴香推薦哪款好？15款人氣擴香瓶推薦，輕鬆打造療癒氛圍",
-              "snippet": "四、擴香推薦哪款好？2025 年15 款熱門擴香瓶推薦！ · 室內香氛推薦1. SHARECO｜朝霧AFTER-THE-FOG · 室內香氛推薦2. SHARECO｜幽冥仙境4-AM · 室內香氛推薦3. KLOWER PANDOR｜ ..."
-            },
-            {
-              "title": "2026 年擴香推薦! 打造品味空間質感就靠這8 瓶",
-              "snippet": "2026 年擴香推薦! 打造品味空間質感就靠這8 瓶 · 擴香怎麼挑？ · 擴香瓶推薦：韓系平價Hetras 首席擴香瓶 · 擴香瓶推薦：北歐簡約Skandinavisk · 擴香瓶推薦： ..."
-            },
-            {
-              "title": "室內擴香推薦｜經典香氛與精緻禮盒系列 - Jo Malone London",
-              "snippet": "擴香系列 · 暢銷產品 · English Pear & Freesia Scent Surround Diffuser · 補充液 · Peony & Blush Suede Diffuser Refill · Lime Basil & Mandarin Diffuser Refill."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：擴香推（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「擴香推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "擴香推",
-          "competitor_examples": [
-            {
-              "title": "擴香推薦哪款好？15款人氣擴香瓶推薦，輕鬆打造療癒氛圍",
-              "snippet": "四、擴香推薦哪款好？2025 年15 款熱門擴香瓶推薦！ · 室內香氛推薦1. SHARECO｜朝霧AFTER-THE-FOG · 室內香氛推薦2. SHARECO｜幽冥仙境4-AM · 室內香氛推薦3. KLOWER PANDOR｜ ..."
-            },
-            {
-              "title": "2026 年擴香推薦! 打造品味空間質感就靠這8 瓶",
-              "snippet": "2026 年擴香推薦! 打造品味空間質感就靠這8 瓶 · 擴香怎麼挑？ · 擴香瓶推薦：韓系平價Hetras 首席擴香瓶 · 擴香瓶推薦：北歐簡約Skandinavisk · 擴香瓶推薦： ..."
-            },
-            {
-              "title": "室內擴香推薦｜經典香氛與精緻禮盒系列 - Jo Malone London",
-              "snippet": "擴香系列 · 暢銷產品 · English Pear & Freesia Scent Surround Diffuser · 補充液 · Peony & Blush Suede Diffuser Refill · Lime Basil & Mandarin Diffuser Refill."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -903,75 +395,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：無印良品精油是真的嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "無印良品精油是真的嗎？",
-          "paa_snippet": "百分百天然成分的精油 無印良品的香薰油100%萃取自大自然的植物及果實， 並由世界各地精心挑選，純淨天然。 配合無印良品各式香薰噴霧器， 隨時隨地享受源自大自然的芳香。"
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：精油要怎麼選？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "精油要怎麼選？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：品牌（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「品牌」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "品牌",
-          "competitor_examples": [
-            {
-              "title": "【2026年最新】 50大知名人氣精油品牌專業性評比排名推薦！",
-              "snippet": "二、複方精油（Blend / Synergy）​​ 例如舒壓放鬆走向的配方，可能會搭配薰衣草、乳香、依蘭；清新提振走向的配方，可能會搭配迷迭香、薄荷、柑橘類。 用於按摩或皮膚保養時，是否 ..."
-            },
-            {
-              "title": "沐禾芳療AromaHarvest 台灣唯一Ecocert 完全有機認證療效 ...",
-              "snippet": "沐禾AromaHarvest 提供最高品質的天然精油與純露，從履歷溯源、有機認證到恆溫保存，多年來深獲專業治療師的信賴，成為許多專業芳療師的唯一指定品牌！沐禾AromaHarvest 為 ..."
-            },
-            {
-              "title": "平價／天然精油推薦品牌11選！解析精油種類與使用注意事項",
-              "snippet": "天然精油推薦第1 品牌「南法蕾朵」強調依植物採收狀況採最佳萃取溫度與時間，來保留與取得植物完整的活性，達到最佳的使用效果。說到紓壓放鬆，許多人都會提 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：芳療（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「芳療」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "芳療",
-          "competitor_examples": [
-            {
-              "title": "沐禾芳療AromaHarvest 台灣唯一Ecocert 完全有機認證療效 ...",
-              "snippet": "沐禾AromaHarvest 提供最高品質的天然精油與純露，從履歷溯源、有機認證到恆溫保存，多年來深獲專業治療師的信賴，成為許多專業芳療師的唯一指定品牌！沐禾AromaHarvest 為 ..."
-            },
-            {
-              "title": "芳療師最愛精油香氣排行榜：選購指南與專家推薦",
-              "snippet": "芳療師最愛精油香氣排行榜：選購指南與專家推薦 · 1.薰衣草精油- 具鎮靜與助眠效果，適合放鬆與舒壓。 · 2.茶樹精油- 以其抗菌淨化特性廣受喜愛，常用於護膚 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：療師（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「療師」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "療師",
-          "competitor_examples": [
-            {
-              "title": "沐禾芳療AromaHarvest 台灣唯一Ecocert 完全有機認證療效 ...",
-              "snippet": "沐禾AromaHarvest 提供最高品質的天然精油與純露，從履歷溯源、有機認證到恆溫保存，多年來深獲專業治療師的信賴，成為許多專業芳療師的唯一指定品牌！沐禾AromaHarvest 為 ..."
-            },
-            {
-              "title": "芳療師最愛精油香氣排行榜：選購指南與專家推薦",
-              "snippet": "芳療師最愛精油香氣排行榜：選購指南與專家推薦 · 1.薰衣草精油- 具鎮靜與助眠效果，適合放鬆與舒壓。 · 2.茶樹精油- 以其抗菌淨化特性廣受喜愛，常用於護膚 ..."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -984,81 +411,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：精油（前5名有10篇提到）",
-          "content": "Google 前 5 名對手中有 10 篇文章提到「精油」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "精油",
-          "competitor_examples": [
-            {
-              "title": "擴香瓶、薰香、香氛蠟燭差多少？香氛產品優缺點完整比較",
-              "snippet": "精油擴香儀優缺點解析 ... 精油擴香儀與水氧機的運作原理相似，差別在精油擴香儀不需要透過水作為媒介便可以釋放香氣，只要插上電、把精油點進擴香儀裡，就可以 ..."
-            },
-            {
-              "title": "擴香儀、水氧機、蠟燭精油台，到底該選哪一種？",
-              "snippet": "擴香儀有別於水氧機，是不需加水的，利用物理振盪讓精油依真空震盪被吸起碰撞，轉化為霧氣般的極細緻分子，香味擴散快速且完整，香氣濃度最純，芳香療法作用最好 ..."
-            },
-            {
-              "title": "擴香儀、水氧機、香氛蠟燭、擴香竹到底要選哪一種？",
-              "snippet": "水氧機：須加水、加精油，透過振盪讓精油香氣隨著細密水霧擴散到空氣中。 加熱型擴香石：只須加精油，透過加熱使精油香氣擴散到空氣中。 礦石淨化擴香燈：只須 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：香儀（前5名有9篇提到）",
-          "content": "Google 前 5 名對手中有 9 篇文章提到「香儀」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "香儀",
-          "competitor_examples": [
-            {
-              "title": "擴香瓶、薰香、香氛蠟燭差多少？香氛產品優缺點完整比較",
-              "snippet": "精油擴香儀優缺點解析 ... 精油擴香儀與水氧機的運作原理相似，差別在精油擴香儀不需要透過水作為媒介便可以釋放香氣，只要插上電、把精油點進擴香儀裡，就可以 ..."
-            },
-            {
-              "title": "3種擴香器\"融蠟燈、水氧機、擴香儀\" 到底要選哪個呢？ -",
-              "snippet": "『不加熱也不加水』方式－擴香儀 · 對於追求情調和環境感的人，融蠟燈是一個不錯的選擇。 · 想要增加空間濕度的人，可以考慮水氧機。 · 對於無毒香氛生活講究的人，且希望有效率並 ..."
-            },
-            {
-              "title": "擴香儀、水氧機、蠟燭精油台，到底該選哪一種？",
-              "snippet": "擴香儀有別於水氧機，是不需加水的，利用物理振盪讓精油依真空震盪被吸起碰撞，轉化為霧氣般的極細緻分子，香味擴散快速且完整，香氣濃度最純，芳香療法作用最好 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：擴香儀（前5名有9篇提到）",
-          "content": "Google 前 5 名對手中有 9 篇文章提到「擴香儀」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "擴香儀",
-          "competitor_examples": [
-            {
-              "title": "擴香瓶、薰香、香氛蠟燭差多少？香氛產品優缺點完整比較",
-              "snippet": "精油擴香儀優缺點解析 ... 精油擴香儀與水氧機的運作原理相似，差別在精油擴香儀不需要透過水作為媒介便可以釋放香氣，只要插上電、把精油點進擴香儀裡，就可以 ..."
-            },
-            {
-              "title": "3種擴香器\"融蠟燈、水氧機、擴香儀\" 到底要選哪個呢？ -",
-              "snippet": "『不加熱也不加水』方式－擴香儀 · 對於追求情調和環境感的人，融蠟燈是一個不錯的選擇。 · 想要增加空間濕度的人，可以考慮水氧機。 · 對於無毒香氛生活講究的人，且希望有效率並 ..."
-            },
-            {
-              "title": "擴香儀、水氧機、蠟燭精油台，到底該選哪一種？",
-              "snippet": "擴香儀有別於水氧機，是不需加水的，利用物理振盪讓精油依真空震盪被吸起碰撞，轉化為霧氣般的極細緻分子，香味擴散快速且完整，香氣濃度最純，芳香療法作用最好 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：香氛蠟燭擴香瓶比較",
-          "content": "「香氛蠟燭擴香瓶比較」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "香氛蠟燭擴香瓶比較"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：擴香石",
-          "content": "「擴香石」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "擴香石"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1071,65 +427,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：技巧（前5名有5篇提到）",
-          "content": "Google 前 5 名對手中有 5 篇文章提到「技巧」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "技巧",
-          "competitor_examples": [
-            {
-              "title": "【香氛蠟燭入門】新手必看！5個蠟燭保養技巧，避免隧道",
-              "snippet": "成為蠟燭達人！你只需要這5個保養技巧 · 技巧1：最重要的「第一次燃燒」，決定蠟燭的一生！ · 技巧2：每次點燃前，請溫柔地「修剪燭芯」 · 技巧3：跟黑煙說掰掰！"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：燭芯（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「燭芯」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "燭芯",
-          "competitor_examples": [
-            {
-              "title": "【香氛蠟燭入門】新手必看！5個蠟燭保養技巧，避免隧道",
-              "snippet": "成為蠟燭達人！你只需要這5個保養技巧 · 技巧1：最重要的「第一次燃燒」，決定蠟燭的一生！ · 技巧2：每次點燃前，請溫柔地「修剪燭芯」 · 技巧3：跟黑煙說掰掰！"
-            },
-            {
-              "title": "新手必看！把握7重點教妳香香美美玩香氛蠟燭 - 逐夜酒肆",
-              "snippet": "香氛筆記｜新手必看！把握7重點教妳香香美美玩香氛蠟燭 · 把燭芯推到蠟液裡熄滅燭火，減少煙霧產生 · 扶正燭芯，確保下次點火的時候，燭芯還是站得好好的、不會 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：手必（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「手必」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "手必",
-          "competitor_examples": [
-            {
-              "title": "【香氛蠟燭入門】新手必看！5個蠟燭保養技巧，避免隧道",
-              "snippet": "成為蠟燭達人！你只需要這5個保養技巧 · 技巧1：最重要的「第一次燃燒」，決定蠟燭的一生！ · 技巧2：每次點燃前，請溫柔地「修剪燭芯」 · 技巧3：跟黑煙說掰掰！"
-            },
-            {
-              "title": "新手必看！把握7重點教妳香香美美玩香氛蠟燭 - 逐夜酒肆",
-              "snippet": "香氛筆記｜新手必看！把握7重點教妳香香美美玩香氛蠟燭 · 把燭芯推到蠟液裡熄滅燭火，減少煙霧產生 · 扶正燭芯，確保下次點火的時候，燭芯還是站得好好的、不會 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：香氛蠟燭蠟油要倒掉嗎",
-          "content": "「香氛蠟燭蠟油要倒掉嗎」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "香氛蠟燭蠟油要倒掉嗎"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：蠟燭燒不到旁邊dcard",
-          "content": "「蠟燭燒不到旁邊dcard」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "蠟燭燒不到旁邊dcard"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1142,70 +443,74 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：蠟燭材料有哪些？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "蠟燭材料有哪些？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精油香調入門｜前調中調後調怎麼分？2026指南",
+      "url": "https://vocus.cc/article/69b3a428fd897800011a0319",
+      "md_path": "output\\batch_02_香氛擴香\\精油香調入門\\精油香調入門_方格子研究文.md",
+      "keyword": "精油香調入門",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：蠟燭的蠟是什麼蠟？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "蠟燭的蠟是什麼蠟？",
-          "paa_snippet": "石蠟（ paraffin wax） 一般市面上販售的蠟燭原料通常會是石蠟，也就是所謂的石油萃取物，不僅原料容易取得，價格相較之下也比較便宜，也因此市面上才會有這麼多你們看到的便宜蠟燭，甚至連一些比較知名的蠟燭品牌也是採用這種原料。 不過石蠟本身為化學成分，因此需要添加大量的香精才有辦法把蠟的味道蓋住。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "擴香瓶味道變淡怎麼辦？5 個方法讓香味回來｜2026",
+      "url": "https://vocus.cc/article/69b370b6fd8978000108e43a",
+      "md_path": "output\\batch_02_香氛擴香\\擴香瓶味道變淡怎麼辦\\擴香瓶味道變淡怎麼辦_方格子研究文.md",
+      "keyword": "擴香瓶味道變淡怎麼辦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：蜜蠟可以做蠟燭嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "蜜蠟可以做蠟燭嗎？",
-          "paa_snippet": "蠟材特性介紹》動物蠟 蜂蠟，又稱蜜蠟，是由蜜蜂分泌的天然蠟材。 它的特性包括高燃點，燃燒時產生微量的蜂蜜香氣，且不釋放有害化學物質，對環境友好。 蜂蠟蠟燭燃燒時無煙無毒，具有淨化空氣的功效，能消除異味和有害物質。 此外，蜂蠟的燃燒時間較長，光線柔和且不刺眼。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "蠟燭隧道效應怎麼救？3個方法把凹洞修回來｜2026",
+      "url": "https://vocus.cc/article/69b11184fd897800013222ce",
+      "md_path": "output\\batch_02_香氛擴香\\蠟燭隧道效應怎麼救\\蠟燭隧道效應怎麼救_方格子研究文.md",
+      "keyword": "蠟燭隧道效應怎麼救",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：大豆（前5名有11篇提到）",
-          "content": "Google 前 5 名對手中有 11 篇文章提到「大豆」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "大豆",
-          "competitor_examples": [
-            {
-              "title": "【香氛蠟燭學院】7種蠟材選擇攻略 - Nene 捏捏這個人",
-              "snippet": "選擇蠟材時，最重要的就是：擴香性、燃燒時間、持續性、燃燒環保安全性。 選擇適合的蠟材對香氛蠟燭的燃燒時間、香味釋放以及環保性有著重要影響。大豆蠟以 ..."
-            },
-            {
-              "title": "2025 完整香氛蠟燭選購指南：從蠟材、香調到保養一次搞懂",
-              "snippet": "蠟材大解析 · 1. 石蠟 ❌. 來源：石油副產. 優點：價格最低、顏色容易染製. 缺點：燃燒易冒黑煙，雜質較多 · 2. 大豆蠟✓. 來源：非基改大豆油（可再生）. 優點：無毒、低溫燃點、燃燒 ..."
-            },
-            {
-              "title": "香氛蠟燭懶人包！香氛蠟燭材質選擇、正確使用技巧彙整",
-              "snippet": "蠟材的選擇主要會依成本、使用感受、造型要求而有不同的選擇，多數會選擇較軟的大豆蠟，大豆蠟是一種天然蠟，由大豆油提煉而成，它燃燒乾淨，散發出溫和的香氣，並且具有較長的 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "精油過期還能用嗎？保存期限變質判斷再利用｜2026",
+      "url": "https://vocus.cc/article/69b39dbcfd897800011829fa",
+      "md_path": "output\\batch_02_香氛擴香\\精油過期還能用嗎\\精油過期還能用嗎_方格子研究文.md",
+      "keyword": "精油過期還能用嗎",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：選擇（前5名有9篇提到）",
-          "content": "Google 前 5 名對手中有 9 篇文章提到「選擇」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "選擇",
-          "competitor_examples": [
-            {
-              "title": "【香氛蠟燭學院】7種蠟材選擇攻略 - Nene 捏捏這個人",
-              "snippet": "選擇蠟材時，最重要的就是：擴香性、燃燒時間、持續性、燃燒環保安全性。 選擇適合的蠟材對香氛蠟燭的燃燒時間、香味釋放以及環保性有著重要影響。大豆蠟以 ..."
-            },
-            {
-              "title": "香氛蠟燭懶人包！香氛蠟燭材質選擇、正確使用技巧彙整",
-              "snippet": "蠟材的選擇主要會依成本、使用感受、造型要求而有不同的選擇，多數會選擇較軟的大豆蠟，大豆蠟是一種天然蠟，由大豆油提煉而成，它燃燒乾淨，散發出溫和的香氣，並且具有較長的 ..."
-            },
-            {
-              "title": "如何選擇正確的蠟芯?",
-              "snippet": "不同蠟材（如大豆蠟、石蠟、果凍蠟、蜂蠟等）有不同的密度和熔點。 這些差異會影響你選擇合適的蠟芯尺寸。 蠟材密度越高，熔點相應就越高，所 ..."
-            }
-          ]
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1218,59 +523,58 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：飲水機要用什麼清洗？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "飲水機要用什麼清洗？",
-          "paa_snippet": "可使用食品級檸檬酸、白醋，或市售飲水機專用去垢劑。 以檸檬酸為例： ❶將檸檬酸清洗劑(300g)倒入盛水容器中，再加入溫水或熱水。 ❷攪拌清洗劑使其完全溶解為檸檬水，未溶解前請勿倒入生水箱，避免管路阻塞。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "車用香氛太濃怎麼辦？5個方法調整濃淡｜2026",
+      "url": "https://vocus.cc/article/69b00331fd89780001e5340b",
+      "md_path": "output\\batch_02_香氛擴香\\v車用香氛太濃怎麼辦\\車用香氛太濃怎麼辦_方格子研究文.md",
+      "keyword": "車用香氛太濃怎麼辦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：如何清潔霧化器？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "如何清潔霧化器？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "居家香氛完整指南｜蠟燭擴香瓶精油怎麼選2026",
+      "url": "https://vocus.cc/article/69b38022fd897800010e36ae",
+      "md_path": "output\\batch_02_香氛擴香\\Boss_居家香氛完整指南\\居家香氛完整指南_方格子研究文.md",
+      "keyword": "居家香氛完整指南",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：霧化（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「霧化」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "霧化",
-          "competitor_examples": [
-            {
-              "title": "【霧化機清潔教學】味道無法擴散？霧化機也要定期保養 - 璞草園",
-              "snippet": "如何清潔霧化機？ · 倒出瓶中剩餘精油 · 將酒精噴於抹布或面紙，清潔細管及連接處 · 往瓶內倒入適量酒精，搖晃清潔瓶內殘餘精油後倒掉 · 再度倒入新酒精至瓶子的1 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "水氧機怎麼清洗？保養 3 步驟不變成細菌溫床｜2026",
+      "url": "https://vocus.cc/article/69b7cd73fd89780001310a77",
+      "md_path": "",
+      "keyword": "水氧機怎麼清洗",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：化機（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「化機」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "化機",
-          "competitor_examples": [
-            {
-              "title": "【霧化機清潔教學】味道無法擴散？霧化機也要定期保養 - 璞草園",
-              "snippet": "如何清潔霧化機？ · 倒出瓶中剩餘精油 · 將酒精噴於抹布或面紙，清潔細管及連接處 · 往瓶內倒入適量酒精，搖晃清潔瓶內殘餘精油後倒掉 · 再度倒入新酒精至瓶子的1 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：霧化機（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「霧化機」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "霧化機",
-          "competitor_examples": [
-            {
-              "title": "【霧化機清潔教學】味道無法擴散？霧化機也要定期保養 - 璞草園",
-              "snippet": "如何清潔霧化機？ · 倒出瓶中剩餘精油 · 將酒精噴於抹布或面紙，清潔細管及連接處 · 往瓶內倒入適量酒精，搖晃清潔瓶內殘餘精油後倒掉 · 再度倒入新酒精至瓶子的1 ..."
-            }
-          ]
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1283,65 +587,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：玩具（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「玩具」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "玩具",
-          "competitor_examples": [
-            {
-              "title": "2026兒童節禮物合輯｜0-6歲各階段成長好物分享",
-              "snippet": "1.安撫實用的感統玩具：美國Itzy Ritzy 咬咬安撫禮盒 · 2.動作發展的感統玩具：比利時Trixie 寶寶木玩積木列車 · 3.促進協調的感統玩具：以色列Yookidoo健力遊戲墊 · 4.培養耐心 ..."
-            },
-            {
-              "title": "兒童節專區",
-              "snippet": "【皇家衛兵造型】直尺書籤2合1 - 英倫風文具 · 【紓壓彈射雞】小雞玩具-彈弓公雞搞笑減壓器 · 【實木彩蛋】復活節DIY彩繪- 仿真手工雞蛋 · 【輕巧不掉頁】馬年小馬磁吸書籤－ ..."
-            },
-            {
-              "title": "5-12歲小朋友生日禮物推薦！讓小孩愛不釋手的禮物清單",
-              "snippet": "選擇具有教育價值的遊戲、叢書，如：益智玩具、科學玩具、書籍、桌遊、拼圖、兒童相機等，可以啟發孩子學習興趣和求知欲，增加探索外界的可能性。"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：日本（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「日本」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "日本",
-          "competitor_examples": [
-            {
-              "title": "兒童節專區",
-              "snippet": "兒童節專區 ; 日本進口｜招福招財貓擺飾. NT$558 ; 日本進口|富士山和色馬克杯(單入)【伴娘禮/卡通對杯/婚禮小物】. NT$450 ; 日本進口｜日式笑迎福對馬. NT$1,188 ; 日本進口｜日 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：本進（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「本進」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "本進",
-          "competitor_examples": [
-            {
-              "title": "兒童節專區",
-              "snippet": "兒童節專區 ; 日本進口｜招福招財貓擺飾. NT$558 ; 日本進口|富士山和色馬克杯(單入)【伴娘禮/卡通對杯/婚禮小物】. NT$450 ; 日本進口｜日式笑迎福對馬. NT$1,188 ; 日本進口｜日 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：兒童節禮物國小",
-          "content": "「兒童節禮物國小」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "兒童節禮物國小"
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：兒童節禮物100元",
-          "content": "「兒童節禮物100元」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "兒童節禮物100元"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1354,57 +603,42 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：Qi2會傷電池嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "Qi2會傷電池嗎？",
-          "paa_snippet": "在充電效能方面，Qi2 標準初期就支援高達15W 的無線充電功率，與舊版Qi 的5W～10W 相比更快、更穩定。 此外，Qi2 的認證制度更嚴格，所有通過認證的產品都必須具備磁吸功能及更高的安全標準，有效避免過熱、電池損壞等風險。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【2026兒童智慧手錶推薦】6款定位通話手錶評比｜接送安全不擔心",
+      "url": "https://vocus.cc/article/69b90b36fd897800010438cc",
+      "md_path": "output\\batch_03_兒童節禮物\\兒童智慧手錶推薦\\兒童智慧手錶推薦_方格子研究文.md",
+      "keyword": "兒童智慧手錶推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：行動電源爆炸是哪一牌？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "行動電源爆炸是哪一牌？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "兒童玩具安全標章怎麼看？ST、CE、ASTM 一次搞懂｜2026",
+      "url": "https://vocus.cc/article/69b92600fd897800010c3d23",
+      "md_path": "output\\batch_03_兒童節禮物\\兒童玩具安全標章\\兒童玩具安全標章_方格子研究文.md",
+      "keyword": "兒童玩具安全標章怎麼看",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：Qi2 行動電源有哪些？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "Qi2 行動電源有哪些？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：Qi2好用嗎？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "Qi2好用嗎？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：超薄（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「超薄」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "超薄",
-          "competitor_examples": [
-            {
-              "title": "2026 Qi2行動電源推薦｜Qi2 vs MagSafe 一次看懂怎麼選！",
-              "snippet": "2026年10款Qi2磁吸行動電源推薦 · NO.1 AUKEY Magfuszion M10000 10000mAh Qi2 磁吸超薄行動電源MS08 · NO.2 TORRAS Ostand Qi2 10000mAh 磁吸旋轉支架行動電源 · NO.3 ..."
-            },
-            {
-              "title": "Magfusion Qi2 磁吸超薄行動電源！不只是充電 - AUKEY",
-              "snippet": "總結「Magfusion Qi2 磁吸超薄行動電源」不只外型俐落磁吸穩固便利，更通過Qi2 認證可支援iPhone 17 的新一代快充技術，無論是日常通勤或旅行使用都非常合 ..."
-            },
-            {
-              "title": "行動電源qi2",
-              "snippet": "Anker A1664 10000mAh Qi2 超薄磁吸行動電源 · AUKEY Qi2 10000mAh ( PB-MS06)磁吸無線行動電源 · TORRAS Ostand Qi2 10000mAh MagSafe磁吸旋轉支架行動電源 · Anker A1665 磁 ..."
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1417,74 +651,74 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：小學書包 幾多l？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "小學書包 幾多l？",
-          "paa_snippet": "每個小朋友的成長速度不同，在為子女選擇書包時，家長要按子女的實際身高選購。 一般而言，120cm以下的學童，最好選擇12L以下的書包；容量19L的書包，適合95至140CM的學童。 至於身高140CM以上的學童，建議可以選擇22L的大容量書包。"
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【兒童益智玩具推薦2026】8款教育學習玩具評比｜邊玩邊學不踩雷",
+      "url": "https://vocus.cc/article/69ba0824fd897800013fad9e",
+      "md_path": "output\\batch_03_兒童節禮物\\兒童益智玩具推薦\\兒童益智玩具推薦_方格子研究文.md",
+      "keyword": "兒童益智玩具推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：品牌（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「品牌」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "品牌",
-          "competitor_examples": [
-            {
-              "title": "護脊書包的專家TigerFamily｜打造最舒適的書包、後背包 ...",
-              "snippet": "米家人最愛-tigerfamily兒童護脊書包領導品牌. 最新熱門商品. 全新三麗鷗聯名！小學生超輕量護脊書包系列. 全新聯名粉紅豬小妹系列幼兒包新上市. 專為高年級學生打造的 ..."
-            },
-            {
-              "title": "小學生護脊書包推薦品牌【impact怡寶】書包背負系統的專家",
-              "snippet": "專利護脊書包 · 【IMPACT】怡寶| 大耳狗喜拿Cinnamoroll-成長型護 · 【IMPACT】怡寶| 蜘蛛人Spider Man-成長型護脊書包 · 【IMPACT】怡寶| 酷洛米Kuromi-成長型護脊書包 ..."
-            },
-            {
-              "title": "挖到寶！高價位護脊書包品牌評比，2025最高CP值書包出爐！",
-              "snippet": "高價位護脊書包品牌評比，2025最高CP值 TigerFamily應該算是小學生書包界的龍頭代表了吧！ 上學路上幾乎一半小學生都是背著TigerFamily， 但價格範圍 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【兒童相機推薦2026】5款小朋友拍立得相機評比｜新手爸媽必看",
+      "url": "https://vocus.cc/article/69ba0e20fd897800014146f1",
+      "md_path": "output\\batch_03_兒童節禮物\\兒童相機推薦\\兒童相機推薦_方格子研究文.md",
+      "keyword": "兒童相機推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：怡寶（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「怡寶」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "怡寶",
-          "competitor_examples": [
-            {
-              "title": "小學生護脊書包推薦品牌【impact怡寶】書包背負系統的專家",
-              "snippet": "專利護脊書包 · 【IMPACT】怡寶| 大耳狗喜拿Cinnamoroll-成長型護 · 【IMPACT】怡寶| 蜘蛛人Spider Man-成長型護脊書包 · 【IMPACT】怡寶| 酷洛米Kuromi-成長型護脊書包 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "兒童節送禮完整指南｜7 款兒童禮物從玩具到手錶照年齡選不踩雷",
+      "url": "https://vocus.cc/article/69ba171cfd89780001445a92",
+      "md_path": "output\\batch_03_兒童節禮物\\兒童節禮物推薦綜合排行\\兒童節禮物推薦綜合排行_方格子研究文.md",
+      "keyword": "兒童節送禮完整指南",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：專家（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「專家」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "專家",
-          "competitor_examples": [
-            {
-              "title": "護脊書包的專家TigerFamily｜打造最舒適的書包、後背包 ...",
-              "snippet": "米家人最愛-tigerfamily兒童護脊書包領導品牌. 最新熱門商品. 全新三麗鷗聯名！小學生超輕量護脊書包系列. 全新聯名粉紅豬小妹系列幼兒包新上市. 專為高年級學生打造的 ..."
-            },
-            {
-              "title": "小學生護脊書包推薦品牌【impact怡寶】書包背負系統的專家",
-              "snippet": "專利護脊書包 · 【IMPACT】怡寶| 大耳狗喜拿Cinnamoroll-成長型護 · 【IMPACT】怡寶| 蜘蛛人Spider Man-成長型護脊書包 · 【IMPACT】怡寶| 酷洛米Kuromi-成長型護脊書包 ..."
-            },
-            {
-              "title": "小一兒童書包▼Tiger Family護脊書包▼全球新一代智能秒開 ...",
-              "snippet": "選擇【Tiger Family護脊書包】的原因之一＂符合人體工學設計＂，產品通過德國IGRe.v認證，另有S型減壓肩帶，可分散肩部承受的壓力！ 是一款榮獲德國骨科和運動學專家聯合推薦使 ..."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "小學生書包太重怎麼辦？5 個方法減輕書包重量｜2026",
+      "url": "https://vocus.cc/article/69ba2156fd8978000147bb8a",
+      "md_path": "output\\batch_03_兒童節禮物\\小學生書包太重\\小學生書包太重_方格子研究文.md",
+      "keyword": "小學生書包太重怎麼辦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：兒童書包推薦ptt",
-          "content": "「兒童書包推薦ptt」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "兒童書包推薦ptt"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1497,83 +731,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：新手媽媽最想收到什麼禮物？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "新手媽媽最想收到什麼禮物？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "paa_gap",
-          "priority": "high",
-          "suggestion": "FAQ 新增一題：產後媽媽最想收到什麼？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "產後媽媽最想收到什麼？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：節禮（前5名有7篇提到）",
-          "content": "Google 前 5 名對手中有 7 篇文章提到「節禮」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "節禮",
-          "competitor_examples": [
-            {
-              "title": "大家長大後都送什麼母親節禮物嗎? - 女孩板",
-              "snippet": "包紅包、保健品、保養品（可以直接買她慣用牌）、跟兄弟姐妹合資買黃金手鍊、有噴香水習慣可以買香水，沒有可以買髮香，女生應該都喜歡頭髮香香的。 直接觀察 ..."
-            },
-            {
-              "title": "2026母親節禮物排行榜｜10款媽媽禮物推薦＆送禮小技巧！",
-              "snippet": "母親節禮物排行– TOP.9 彩妝品 ... 誰說媽媽不能比拚時尚？口紅、眉筆、睫毛膏、眼影、腮紅、化妝刷套組、香水等產品，也是母親節的熱門禮物，讓媽媽搖身一變， ..."
-            },
-            {
-              "title": "母親節禮物實用款大集合：精選16款禮物，送給媽媽最貼心的 ...",
-              "snippet": "母親節禮物實用款集合！精選16款母親節禮物實用款，涵蓋咖啡機、隨行杯、小家電，並針對上班族、時尚型、科技型媽媽推薦，助你找到最適合媽媽的禮物。"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：親節禮（前5名有7篇提到）",
-          "content": "Google 前 5 名對手中有 7 篇文章提到「親節禮」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "親節禮",
-          "competitor_examples": [
-            {
-              "title": "大家長大後都送什麼母親節禮物嗎? - 女孩板",
-              "snippet": "包紅包、保健品、保養品（可以直接買她慣用牌）、跟兄弟姐妹合資買黃金手鍊、有噴香水習慣可以買香水，沒有可以買髮香，女生應該都喜歡頭髮香香的。 直接觀察 ..."
-            },
-            {
-              "title": "2026母親節禮物排行榜｜10款媽媽禮物推薦＆送禮小技巧！",
-              "snippet": "母親節禮物排行– TOP.9 彩妝品 ... 誰說媽媽不能比拚時尚？口紅、眉筆、睫毛膏、眼影、腮紅、化妝刷套組、香水等產品，也是母親節的熱門禮物，讓媽媽搖身一變， ..."
-            },
-            {
-              "title": "母親節禮物實用款大集合：精選16款禮物，送給媽媽最貼心的 ...",
-              "snippet": "母親節禮物實用款集合！精選16款母親節禮物實用款，涵蓋咖啡機、隨行杯、小家電，並針對上班族、時尚型、科技型媽媽推薦，助你找到最適合媽媽的禮物。"
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：節禮物（前5名有7篇提到）",
-          "content": "Google 前 5 名對手中有 7 篇文章提到「節禮物」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "節禮物",
-          "competitor_examples": [
-            {
-              "title": "大家長大後都送什麼母親節禮物嗎? - 女孩板",
-              "snippet": "包紅包、保健品、保養品（可以直接買她慣用牌）、跟兄弟姐妹合資買黃金手鍊、有噴香水習慣可以買香水，沒有可以買髮香，女生應該都喜歡頭髮香香的。 直接觀察 ..."
-            },
-            {
-              "title": "2026母親節禮物排行榜｜10款媽媽禮物推薦＆送禮小技巧！",
-              "snippet": "母親節禮物排行– TOP.9 彩妝品 ... 誰說媽媽不能比拚時尚？口紅、眉筆、睫毛膏、眼影、腮紅、化妝刷套組、香水等產品，也是母親節的熱門禮物，讓媽媽搖身一變， ..."
-            },
-            {
-              "title": "母親節禮物實用款大集合：精選16款禮物，送給媽媽最貼心的 ...",
-              "snippet": "母親節禮物實用款集合！精選16款母親節禮物實用款，涵蓋咖啡機、隨行杯、小家電，並針對上班族、時尚型、科技型媽媽推薦，助你找到最適合媽媽的禮物。"
-            }
-          ]
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1586,74 +747,10 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：神經醯胺哪個牌子好？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "神經醯胺哪個牌子好？",
-          "paa_snippet": ""
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：禮物（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「禮物」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "禮物",
-          "competitor_examples": [
-            {
-              "title": "【2026母親節禮物推薦】Top13排行榜，從實用家電、保健食品 ...",
-              "snippet": "2026 母親節禮物推薦看這篇！精選15+ 款超人氣禮物清單，涵蓋抗老保養、舒壓家電、智慧廚具與精緻花禮。從預算1000 元到萬元的防踩雷指南，讓媽媽打心底 ..."
-            },
-            {
-              "title": "2025 母親節實用禮物推薦：人氣排行保養品禮盒最得父母心",
-              "snippet": "母親節最讚實用保養品｜金盞花水洗雙星730ML購嗨組. 超人氣經典清潔保養雙星組合！500ML金盞花化妝水搭配230ML金盞花溫和潔面乳，清潔與保養一次滿足！溫和 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：組合（前5名有4篇提到）",
-          "content": "Google 前 5 名對手中有 4 篇文章提到「組合」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "組合",
-          "competitor_examples": [
-            {
-              "title": "2025母親節保養組合攻略一次看！無痛入手超值精華液",
-              "snippet": "2025母親節保養組合推薦：KANEBO緻潤洗顏進化組 ... KANEBO保濕緻潤洗顏皂霜牽絲般質地的濃潤吸附泡沫，因添加豐富的複合保濕成分，從洗臉開始到結束，宛如被水 ..."
-            },
-            {
-              "title": "請益送給媽媽的保養品- 美妝板",
-              "snippet": "我自己是買AHC的黃金抗老精華組合和一些面膜給我媽跟阿嬤他們兩個目前用起來都還不錯在韓國當地滿普及的樣子他們天氣乾燥出的保養品普遍比較適合乾肌 ..."
-            },
-            {
-              "title": "2025 母親節實用禮物推薦：人氣排行保養品禮盒最得父母心",
-              "snippet": "母親節最讚實用保養品｜金盞花水洗雙星730ML購嗨組. 超人氣經典清潔保養雙星組合！500ML金盞花化妝水搭配230ML金盞花溫和潔面乳，清潔與保養一次滿足！溫和 ..."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：物推（前5名有3篇提到）",
-          "content": "Google 前 5 名對手中有 3 篇文章提到「物推」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "物推",
-          "competitor_examples": [
-            {
-              "title": "【2026母親節禮物推薦】Top13排行榜，從實用家電、保健食品 ...",
-              "snippet": "2026 母親節禮物推薦看這篇！精選15+ 款超人氣禮物清單，涵蓋抗老保養、舒壓家電、智慧廚具與精緻花禮。從預算1000 元到萬元的防踩雷指南，讓媽媽打心底 ..."
-            },
-            {
-              "title": "2025 母親節實用禮物推薦：人氣排行保養品禮盒最得父母心",
-              "snippet": "母親節最讚實用保養品｜金盞花水洗雙星730ML購嗨組. 超人氣經典清潔保養雙星組合！500ML金盞花化妝水搭配230ML金盞花溫和潔面乳，清潔與保養一次滿足！溫和 ..."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：媽媽保養品dcard",
-          "content": "「媽媽保養品dcard」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "媽媽保養品dcard"
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     },
@@ -1666,170 +763,47 @@
       "status": "未上榜",
       "todos": [
         {
-          "type": "paa_gap",
+          "type": "not_found",
           "priority": "high",
-          "suggestion": "FAQ 新增一題：媽媽最想收到什麼禮物？",
-          "content": "Google「其他人也問了」出現這個問題，但文章 FAQ 沒涵蓋。建議在 FAQ 段落新增此題。",
-          "paa_question": "媽媽最想收到什麼禮物？",
-          "paa_snippet": ""
-        },
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "【母親節廚房家電推薦2026】8款送媽媽料理家電評比｜實用不踩雷",
+      "url": "https://vocus.cc/article/69bb88a8fd89780001aa737e",
+      "md_path": "output\\batch_07_母親節禮物\\母親節廚房家電推薦\\母親節廚房家電推薦_方格子研究文.md",
+      "keyword": "母親節廚房家電推薦",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：媽生（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「媽生」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "媽生",
-          "competitor_examples": [
-            {
-              "title": "2026 媽媽生日禮物TOP10 排行榜",
-              "snippet": "① 媽媽生日禮物：永生花. 嫌鮮花壽命太短？ · ② 媽媽生日禮物：按摩神器/筋膜槍 · ③ 媽媽生日禮物：天然護膚品 · ④ 媽媽生日禮物：擴香／香氛蠟燭 · ⑤ 媽媽生日禮物：電子用品及配件."
-            }
-          ]
-        },
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "母親節禮物怎麼挑？按預算和媽媽類型選不踩雷｜2026 送禮指南",
+      "url": "https://vocus.cc/article/69bb9249fd89780001ad35e6",
+      "md_path": "output\\batch_07_母親節禮物\\母親節禮物怎麼挑\\母親節禮物怎麼挑_方格子研究文.md",
+      "keyword": "母親節禮物怎麼挑",
+      "rank": "未進前 20",
+      "status": "未上榜",
+      "todos": [
         {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：生日（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「生日」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "生日",
-          "competitor_examples": [
-            {
-              "title": "2026 媽媽生日禮物TOP10 排行榜",
-              "snippet": "① 媽媽生日禮物：永生花. 嫌鮮花壽命太短？ · ② 媽媽生日禮物：按摩神器/筋膜槍 · ③ 媽媽生日禮物：天然護膚品 · ④ 媽媽生日禮物：擴香／香氛蠟燭 · ⑤ 媽媽生日禮物：電子用品及配件."
-            }
-          ]
-        },
-        {
-          "type": "competitor_gap",
-          "priority": "medium",
-          "suggestion": "考慮加 H2 段落：日禮（前5名有6篇提到）",
-          "content": "Google 前 5 名對手中有 6 篇文章提到「日禮」，但你的文章 H2 沒有涵蓋這個主題。",
-          "topic": "日禮",
-          "competitor_examples": [
-            {
-              "title": "2026 媽媽生日禮物TOP10 排行榜",
-              "snippet": "① 媽媽生日禮物：永生花. 嫌鮮花壽命太短？ · ② 媽媽生日禮物：按摩神器/筋膜槍 · ③ 媽媽生日禮物：天然護膚品 · ④ 媽媽生日禮物：擴香／香氛蠟燭 · ⑤ 媽媽生日禮物：電子用品及配件."
-            }
-          ]
-        },
-        {
-          "type": "related_keyword",
-          "priority": "low",
-          "suggestion": "內文自然提到：母親節禮物排行",
-          "content": "「母親節禮物排行」是 Google 相關搜尋高頻詞，建議在文章中自然帶入這個詞（不用硬塞，提到一次即可）。",
-          "related_query": "母親節禮物排行"
+          "type": "not_found",
+          "priority": "high",
+          "suggestion": "確認關鍵字對準，考慮長尾詞切入",
+          "content": ""
         }
       ]
     }
   ],
-  "new_articles": [
-    {
-      "type": "new_article",
-      "keyword": "什麼味道會讓人感到舒適？",
-      "frequency": 4,
-      "source_type": "paa",
-      "source_keywords": [
-        "車用香氛推薦",
-        "擴香機推薦",
-        "擴香瓶推薦",
-        "居家香氛完整指南"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "Xiaomi qi2 磁 吸 行動 電源",
-      "frequency": 3,
-      "source_type": "related_search",
-      "source_keywords": [
-        "磁吸行動電源推薦",
-        "Qi2磁吸行動電源推薦",
-        "Qi2磁吸行動電源推薦_p2"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "擴香石",
-      "frequency": 3,
-      "source_type": "related_search",
-      "source_keywords": [
-        "擴香瓶蠟燭水氧機差在哪",
-        "擴香瓶蠟燭水氧機差在哪_p2",
-        "車用香氛太濃怎麼辦"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "蠟燭燒不到旁邊dcard",
-      "frequency": 3,
-      "source_type": "related_search",
-      "source_keywords": [
-        "香氛蠟燭新手必看",
-        "香氛蠟燭新手必看_p2",
-        "蠟燭隧道效應怎麼救"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "500元可以送什麼禮物？",
-      "frequency": 3,
-      "source_type": "paa",
-      "source_keywords": [
-        "兒童節平價禮物推薦",
-        "不知道送媽媽什麼",
-        "母親節平價禮物推薦"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "65W快充 會傷電池嗎？",
-      "frequency": 2,
-      "source_type": "paa",
-      "source_keywords": [
-        "氮化鎵充電器推薦",
-        "學生行動電源推薦"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "Qi2 無線 充電 推薦",
-      "frequency": 2,
-      "source_type": "related_search",
-      "source_keywords": [
-        "無線充電板推薦",
-        "無線充電板推薦_p2"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "Iphone 無線 充電 盤 推薦 ptt",
-      "frequency": 2,
-      "source_type": "related_search",
-      "source_keywords": [
-        "無線充電板推薦",
-        "無線充電板推薦_p2"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "MagSafe為什麼停產？",
-      "frequency": 2,
-      "source_type": "paa",
-      "source_keywords": [
-        "無線充電板推薦",
-        "磁吸行動電源推薦"
-      ]
-    },
-    {
-      "type": "new_article",
-      "keyword": "Enerpad 固態 電池 行動 電源",
-      "frequency": 2,
-      "source_type": "related_search",
-      "source_keywords": [
-        "固態行動電源推薦",
-        "固態行動電源推薦_p2"
-      ]
-    }
-  ],
+  "new_articles": [],
   "health_issues": [
     {
       "type": "low_shopee",
@@ -2038,6 +1012,13 @@
     },
     {
       "type": "low_inbound",
+      "title": "【2026兒童智慧手錶推薦】6款定位通話手錶評比｜接送安全不擔心",
+      "url": "https://vocus.cc/article/69b90b36fd897800010438cc",
+      "inbound_count": 2,
+      "min_required": 3
+    },
+    {
+      "type": "low_inbound",
       "title": "兒童玩具安全標章怎麼看？ST、CE、ASTM 一次搞懂｜2026",
       "url": "https://vocus.cc/article/69b92600fd897800010c3d23",
       "inbound_count": 2,
@@ -2045,9 +1026,23 @@
     },
     {
       "type": "low_inbound",
+      "title": "【兒童書包推薦2026】7款護脊書包評比｜小學生這樣選不踩雷",
+      "url": "https://vocus.cc/article/69b928b8fd897800010d082b",
+      "inbound_count": 2,
+      "min_required": 3
+    },
+    {
+      "type": "low_inbound",
+      "title": "【兒童益智玩具推薦2026】8款教育學習玩具評比｜邊玩邊學不踩雷",
+      "url": "https://vocus.cc/article/69ba0824fd897800013fad9e",
+      "inbound_count": 1,
+      "min_required": 3
+    },
+    {
+      "type": "low_inbound",
       "title": "【兒童相機推薦2026】5款小朋友拍立得相機評比｜新手爸媽必看",
       "url": "https://vocus.cc/article/69ba0e20fd897800014146f1",
-      "inbound_count": 2,
+      "inbound_count": 1,
       "min_required": 3
     },
     {
@@ -2082,6 +1077,20 @@
       "type": "low_inbound",
       "title": "【2026母親節平價禮物推薦】7款小資送禮好物評比｜送禮不踩雷",
       "url": "https://vocus.cc/article/69ba71c3fd897800015d455f",
+      "inbound_count": 0,
+      "min_required": 3
+    },
+    {
+      "type": "low_inbound",
+      "title": "【母親節廚房家電推薦2026】8款送媽媽料理家電評比｜實用不踩雷",
+      "url": "https://vocus.cc/article/69bb88a8fd89780001aa737e",
+      "inbound_count": 0,
+      "min_required": 3
+    },
+    {
+      "type": "low_inbound",
+      "title": "母親節禮物怎麼挑？按預算和媽媽類型選不踩雷｜2026 送禮指南",
+      "url": "https://vocus.cc/article/69bb9249fd89780001ad35e6",
       "inbound_count": 0,
       "min_required": 3
     }
