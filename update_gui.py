@@ -3,6 +3,7 @@
 雙擊「更新導流站.bat」就會打開這個視窗
 """
 import json
+import logging
 import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import subprocess
@@ -12,6 +13,8 @@ import sys
 import tempfile
 from datetime import datetime
 from pathlib import Path
+
+logger = logging.getLogger("vocus.update_gui")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ARTICLES_FILE = os.path.join(SCRIPT_DIR, "articles.txt")
@@ -29,7 +32,7 @@ def scan_output_titles():
                     titles.append(line.lstrip("# ").strip())
                     break
         except Exception:
-            pass
+            logger.debug("掃描標題失敗: %s", md, exc_info=True)
     return titles
 
 
@@ -190,7 +193,7 @@ def do_update():
             except OSError:
                 pass
     except Exception:
-        pass  # 日期寫入失敗不影響主流程
+        logger.warning("publish_dates 寫入失敗", exc_info=True)
 
     run_generate_and_push(f"新增了 {len(added)} 篇文章")
 

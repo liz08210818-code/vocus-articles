@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-19 14:27",
+  "generated": "2026-03-19 16:33",
   "batches": {
     "batch_01_行動電源": {
       "core_word": "行動電源",
@@ -8,15 +8,15 @@
       "bigwords": [
         {
           "bigword": "行動電源推薦",
-          "status": "too_early",
-          "emoji": "🔴",
+          "status": "almost",
+          "emoji": "🟡",
           "rank": null,
-          "detail": "首頁率 0%（需 ≥40%）",
-          "suggestion": "先把長尾詞打好，累積群集實力",
+          "detail": "16篇、62%首頁",
+          "suggestion": "持續累積中",
           "stats": {
             "published": 16,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 10,
+            "page1_rate": 0.62,
             "layers": [
               "boss",
               "knowledge",
@@ -27,15 +27,15 @@
         },
         {
           "bigword": "行動電源",
-          "status": "too_early",
-          "emoji": "🔴",
+          "status": "almost",
+          "emoji": "🟡",
           "rank": null,
-          "detail": "首頁率 0%（需 ≥40%）",
-          "suggestion": "先把長尾詞打好，累積群集實力",
+          "detail": "16篇、62%首頁",
+          "suggestion": "持續累積中",
           "stats": {
             "published": 16,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 10,
+            "page1_rate": 0.62,
             "layers": [
               "boss",
               "knowledge",
@@ -53,15 +53,15 @@
       "bigwords": [
         {
           "bigword": "香氛擴香推薦",
-          "status": "too_early",
-          "emoji": "🔴",
+          "status": "almost",
+          "emoji": "🟡",
           "rank": null,
-          "detail": "首頁率 0%（需 ≥40%）",
-          "suggestion": "先把長尾詞打好，累積群集實力",
+          "detail": "15篇、47%首頁",
+          "suggestion": "→ 再推 2 篇上首頁",
           "stats": {
             "published": 15,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.47,
             "layers": [
               "boss",
               "knowledge",
@@ -73,15 +73,15 @@
         },
         {
           "bigword": "香氛擴香",
-          "status": "too_early",
-          "emoji": "🔴",
+          "status": "almost",
+          "emoji": "🟡",
           "rank": null,
-          "detail": "首頁率 0%（需 ≥40%）",
-          "suggestion": "先把長尾詞打好，累積群集實力",
+          "detail": "15篇、47%首頁",
+          "suggestion": "→ 再推 2 篇上首頁",
           "stats": {
             "published": 15,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.47,
             "layers": [
               "boss",
               "knowledge",
@@ -103,12 +103,12 @@
           "status": "too_early",
           "emoji": "🔴",
           "rank": null,
-          "detail": "缺 Boss 頁、首頁率 0%（需 ≥40%）",
+          "detail": "缺 Boss 頁",
           "suggestion": "先把長尾詞打好，累積群集實力",
           "stats": {
             "published": 8,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.88,
             "layers": [
               "knowledge",
               "recommend"
@@ -121,12 +121,12 @@
           "status": "too_early",
           "emoji": "🔴",
           "rank": null,
-          "detail": "缺 Boss 頁、首頁率 0%（需 ≥40%）",
+          "detail": "缺 Boss 頁",
           "suggestion": "先把長尾詞打好，累積群集實力",
           "stats": {
             "published": 8,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.88,
             "layers": [
               "knowledge",
               "recommend"
@@ -139,12 +139,12 @@
           "status": "too_early",
           "emoji": "🔴",
           "rank": null,
-          "detail": "缺 Boss 頁、首頁率 0%（需 ≥40%）",
+          "detail": "缺 Boss 頁",
           "suggestion": "先把長尾詞打好，累積群集實力",
           "stats": {
             "published": 8,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.88,
             "layers": [
               "knowledge",
               "recommend"
@@ -157,12 +157,12 @@
           "status": "too_early",
           "emoji": "🔴",
           "rank": null,
-          "detail": "缺 Boss 頁、首頁率 0%（需 ≥40%）",
+          "detail": "缺 Boss 頁",
           "suggestion": "先把長尾詞打好，累積群集實力",
           "stats": {
             "published": 8,
-            "on_page1": 0,
-            "page1_rate": 0.0,
+            "on_page1": 7,
+            "page1_rate": 0.88,
             "layers": [
               "knowledge",
               "recommend"
@@ -175,7 +175,7 @@
     "batch_07_母親節禮物": {
       "core_word": "母親節禮物",
       "published_count": 5,
-      "total_articles": 5,
+      "total_articles": 8,
       "bigwords": [
         {
           "bigword": "母親推薦",
